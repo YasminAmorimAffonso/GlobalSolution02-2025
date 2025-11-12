@@ -1,0 +1,19 @@
+
+
+
+@font-face {
+  font-family: "corpta";
+  src: url("/public/assets/fonts/Corpta/corpta.ttf");
+}
+
+
+@font-face {
+  font-family: "cyrovoid";
+  src: url("/public/assets/fonts/cyrovoid-font/cyrovoid.ttf");
+}
+
+
+@font-face {
+  font-family: "neubau";
+  src: url("/public/assets/fonts/neubau-pro/NeubauPro.ttf");
+}
