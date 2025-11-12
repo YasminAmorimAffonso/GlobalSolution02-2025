@@ -13,3 +13,53 @@
     background-image: url("/assets/imgs/fundoFooter.svg");
 
 }
+
+@media (min-width: 768px) {
+
+    #content-footer {
+
+        padding-left: 75px;
+
+        #linha-footer {
+
+            height: 250px;
+
+            margin-bottom: -25px;
+
+        }
+
+        #linksSections-footer {
+
+            margin-top: 50px;
+
+        }
+
+    }
+    
+}
+
+
+
+@media (min-width: 980px) {
+
+    #content-footer {
+
+        padding-left: 100px;
+
+        #linha-footer {
+
+            height: 400px;
+
+            margin-bottom: -75px;
+
+        }
+
+        #linksSections-footer {
+
+            margin-top: 75px;
+
+        }
+
+    }
+    
+}

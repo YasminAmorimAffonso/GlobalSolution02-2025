@@ -9,9 +9,9 @@ export default function Footer() {
 
     return (
 
-        <div id="content-footer" className="p-5 flex flex-col  pt-15 pb-25 md:flex-row">
+        <div id="content-footer" className="p-5 flex flex-col pt-15 pb-25 md:flex-row">
 
-            <div className="flex flex-col justify-around items-center md:items-baseline pl-20">
+            <div className="flex flex-col justify-around items-center md:items-baseline">
 
                 <img src="/assets/imgs/Logo.svg" alt="" className="lg:w-65"/>
 
@@ -27,9 +27,9 @@ export default function Footer() {
 
             </div>
 
-            <img src="/assets/imgs/linhaFooter.svg" alt="" className="h-50 rotate-90 md:rotate-0 mt-10 lg:h-100 mt-20"/>
+            <img id="linha-footer" src="/assets/imgs/linhaFooter.svg" alt="" className="h-50 rotate-90 md:rotate-0 lg:h-100"/>
 
-            <div className="flex flex-col justify-around items-center h-[150px] md:w-2/3 mt-15 lg:h-[250px] mt-40">
+            <div id="linksSections-footer" className="flex flex-col justify-around items-center h-[150px] md:w-2/3 lg:h-[250px]">
 
                 <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Seja bem-vindo(a)</a>
 
