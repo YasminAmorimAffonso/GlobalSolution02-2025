@@ -1,11 +1,289 @@
 
 
 
+#secHero {
 
-@import "tailwindcss";
+    background-image: url("/assets/imgs/fundoSecHero.svg");
 
-@tailwind base;
 
-@tailwind components;
+}
 
-@tailwind utilities;
+
+#secHeroEscura {
+
+    background-image: url("/assets/imgs/fundoSecHeroEscura.svg");
+
+}
+
+
+
+#secMiddle {
+
+    background-image: url("/assets/imgs/fundoSecMiddle.svg");
+
+    div {
+
+        h1,
+        p {
+
+            color: #1C2D43;
+
+        }
+
+    }
+
+}
+
+#secMiddleEscura {
+
+    background-image: url("/assets/imgs/fundoSecMiddleEscuro.svg");
+
+    div {
+
+        h1,
+        p {
+
+            color: #E6F1FF;
+
+        }
+
+    }
+
+
+}
+
+#secHero,
+#secHeroEscura {
+
+    p {
+
+        color: #E6F1FF;
+
+    }
+
+}
+
+
+@media (min-width: 768px) {
+
+    #forma1 {
+
+        width: 700px;
+
+        transform: translate(300px, -200px);
+
+        overflow: hidden;
+
+    }
+
+    #secHero,
+    #secHeroEscura {
+
+        overflow: hidden;
+
+        #imgSecHero {
+
+            margin-top: 350px;
+
+        }
+
+    }
+
+    #secMiddle {
+
+        overflow: hidden;
+
+        div {
+
+            width: 600px;
+
+            padding: 0px 50px;
+
+            h1 {
+
+                font-size: 30px;
+
+            }
+
+            p {
+
+                width: 120%;
+
+            }
+
+        }
+
+        img {
+
+            width: 500px;
+
+        }
+
+    }
+
+
+    #secMiddleEscura {
+
+        overflow: hidden;
+
+        div {
+
+            width: 600px;
+
+            padding: 0px 50px;
+
+            h1 {
+
+                font-size: 30px;
+
+            }
+
+            p {
+
+                width: 120%;
+
+            }
+
+        }
+
+        img {
+
+            width: 500px;
+
+        }
+
+    }
+
+}
+
+
+@media (min-width: 980px) {
+
+    #forma1 {
+
+        width: 1000px;
+
+        transform: translate(600px, 0px);
+
+        overflow: hidden;
+
+    }
+
+    #secHero,
+    #secHeroEscura {
+
+        overflow: hidden;
+
+        #imgSecHero {
+
+            width: 750px;
+
+            margin-top: 450px;
+
+        }
+
+
+        div {
+
+            transform: translate(0px, -175px);
+
+            img {
+
+                width: 500px;
+
+            }
+
+            p {
+
+                transform: translate(0px, 10px);
+
+                font-size: 30px;
+
+                width: 40%;
+
+            }
+
+
+        }
+
+    }
+
+    #secMiddle {
+
+        overflow: hidden;
+
+        div {
+
+            width: 1500px;
+
+            padding: 0px 75px;
+
+            h1 {
+
+
+                font-size: 40px;
+
+            }
+
+            p {
+
+                width: 150%;
+
+                font-size: 30px;
+
+            }
+
+        }
+
+        img {
+
+            width: 850px;
+
+            transform: translate(100px, 0px);
+
+
+        }
+
+    }
+
+
+    #secMiddleEscura {
+
+        overflow: hidden;
+
+        div {
+
+            width: 1500px;
+
+            padding: 0px 75px;
+
+            h1 {
+
+
+                font-size: 40px;
+
+            }
+
+            p {
+
+                width: 150%;
+
+                font-size: 30px;
+
+            }
+
+        }
+
+        img {
+
+            width: 850px;
+
+            transform: translate(100px, 0px);
+
+
+
+        }
+
+    }
+
+}

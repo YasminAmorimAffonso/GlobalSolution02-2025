@@ -1,0 +1,18 @@
+
+
+
+#botao-CCButton {
+
+    transition: 0.3s;
+
+}
+
+@media (min-width: 980px) {
+    
+    #botao-CCButton {
+
+        margin-top: 125px;
+
+    }
+
+} 

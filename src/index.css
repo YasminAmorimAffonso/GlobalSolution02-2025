@@ -1,6 +1,15 @@
 
 
 
+@import "tailwindcss";
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
 @font-face {
   font-family: "corpta";
   src: url("/public/assets/fonts/Corpta/corpta.ttf");
