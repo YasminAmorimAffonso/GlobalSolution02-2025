@@ -5,12 +5,16 @@
 export default function Modal() {
 
 
-    return (
+            return (
 
-        <div>
+                <div className="bg-[#00000099]">
+
+                    <div>
 
 
 
-        </div>
-    )
-}
+                    </div>
+
+                </div>
+            )
+        }

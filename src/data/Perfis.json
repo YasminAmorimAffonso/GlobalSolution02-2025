@@ -1,0 +1,5502 @@
+[
+    {
+        "id": 1,
+        "nome": "Pedro Santos",
+        "foto": "./images/foto1.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Curitiba/PR",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "SQL",
+            "CSS",
+            "Node.js",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user1",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Ana Barbosa",
+        "foto": "./images/foto2.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Salvador/BA",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Docker",
+            "SQL",
+            "Node.js",
+            "Python"
+        ],
+        "softSkills": [
+            "Organização",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user2",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "João Mendes",
+        "foto": "./images/foto3.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "Python",
+            "CSS",
+            "React"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user3",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Lucas Silva",
+        "foto": "./images/foto4.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Campinas/SP",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Figma",
+            "Python",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user4",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Thiago Ferreira",
+        "foto": "./images/foto5.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "CSS",
+            "HTML",
+            "SQL"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user5",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Ana Albuquerque",
+        "foto": "./images/foto6.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Salvador/BA",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Figma",
+            "Power BI",
+            "Python"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user6",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Ana Ribeiro",
+        "foto": "./images/foto7.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Curitiba/PR",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Python",
+            "HTML",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user7",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Ana Albuquerque",
+        "foto": "./images/foto8.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Node.js",
+            "Docker",
+            "Python"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user8",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Beatriz Barbosa",
+        "foto": "./images/foto9.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Docker",
+            "Python",
+            "Figma"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user9",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 10,
+        "nome": "João Santos",
+        "foto": "./images/foto10.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "CSS",
+            "Python",
+            "SQL"
+        ],
+        "softSkills": [
+            "Organização",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user10",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 11,
+        "nome": "Lucas Rocha",
+        "foto": "./images/foto11.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Campinas/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Python",
+            "CSS",
+            "JavaScript",
+            "Docker"
+        ],
+        "softSkills": [
+            "Organização",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user11",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 12,
+        "nome": "Clara Ribeiro",
+        "foto": "./images/foto12.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Campinas/SP",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Docker",
+            "HTML",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user12",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 13,
+        "nome": "Lucas Mendes",
+        "foto": "./images/foto13.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Campinas/SP",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "Figma",
+            "HTML",
+            "Node.js",
+            "SQL"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user13",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 14,
+        "nome": "Mariana Ferreira",
+        "foto": "./images/foto14.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Campinas/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "HTML",
+            "SQL",
+            "CSS",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Organização",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user14",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 15,
+        "nome": "Clara Oliveira",
+        "foto": "./images/foto15.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "HTML",
+            "SQL",
+            "Power BI",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user15",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 16,
+        "nome": "Rafaela Barbosa",
+        "foto": "./images/foto16.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "React",
+            "SQL",
+            "Power BI",
+            "Figma"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user16",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 17,
+        "nome": "Pedro Ferreira",
+        "foto": "./images/foto17.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Curitiba/PR",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "Docker",
+            "Python",
+            "SQL",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user17",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 18,
+        "nome": "Rafaela Martins",
+        "foto": "./images/foto18.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "São Paulo/SP",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Python",
+            "React",
+            "Figma"
+        ],
+        "softSkills": [
+            "Organização",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user18",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 19,
+        "nome": "Pedro Rocha",
+        "foto": "./images/foto19.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "São Paulo/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "HTML",
+            "Node.js",
+            "Figma"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user19",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 20,
+        "nome": "Rafaela Santos",
+        "foto": "./images/foto20.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Curitiba/PR",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Node.js",
+            "HTML",
+            "React"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user20",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 21,
+        "nome": "Clara Oliveira",
+        "foto": "./images/foto21.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "São Paulo/SP",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Docker",
+            "SQL",
+            "Python"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user21",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 22,
+        "nome": "Mariana Rocha",
+        "foto": "./images/foto22.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Python",
+            "CSS",
+            "SQL",
+            "Docker"
+        ],
+        "softSkills": [
+            "Organização",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user22",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 23,
+        "nome": "Mariana Albuquerque",
+        "foto": "./images/foto23.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Figma",
+            "HTML",
+            "Power BI",
+            "CSS"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user23",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 24,
+        "nome": "Rafaela Ferreira",
+        "foto": "./images/foto24.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "React",
+            "CSS",
+            "Power BI",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user24",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 25,
+        "nome": "Pedro Santos",
+        "foto": "./images/foto25.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "Python",
+            "HTML",
+            "SQL",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Organização",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user25",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 26,
+        "nome": "João Santos",
+        "foto": "./images/foto26.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Salvador/BA",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
+            "Power BI",
+            "SQL"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user26",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 27,
+        "nome": "Lucas Santos",
+        "foto": "./images/foto27.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Salvador/BA",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Docker",
+            "Power BI",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user27",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "Sofia Ferreira",
+        "foto": "./images/foto28.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Salvador/BA",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Python",
+            "React",
+            "Power BI",
+            "CSS"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user28",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 29,
+        "nome": "João Albuquerque",
+        "foto": "./images/foto29.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "Figma",
+            "HTML",
+            "CSS"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user29",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 30,
+        "nome": "Beatriz Martins",
+        "foto": "./images/foto30.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Salvador/BA",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Python",
+            "Power BI",
+            "CSS",
+            "React"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user30",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 31,
+        "nome": "Sofia Albuquerque",
+        "foto": "./images/foto31.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Salvador/BA",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "Node.js",
+            "SQL",
+            "CSS"
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user31",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 32,
+        "nome": "Beatriz Santos",
+        "foto": "./images/foto32.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Salvador/BA",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Docker",
+            "HTML",
+            "Node.js",
+            "SQL"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user32",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 33,
+        "nome": "Pedro Barbosa",
+        "foto": "./images/foto33.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Figma",
+            "CSS",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user33",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 34,
+        "nome": "Mariana Barbosa",
+        "foto": "./images/foto34.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Campinas/SP",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Power BI",
+            "Docker",
+            "Python"
+        ],
+        "softSkills": [
+            "Organização",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user34",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 35,
+        "nome": "João Silva",
+        "foto": "./images/foto35.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Curitiba/PR",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
+            "JavaScript",
+            "Figma"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user35",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 36,
+        "nome": "Rafaela Ferreira",
+        "foto": "./images/foto36.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "São Paulo/SP",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "SQL"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user36",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 37,
+        "nome": "Mariana Albuquerque",
+        "foto": "./images/foto37.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Campinas/SP",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS"
+        ],
+        "softSkills": [
+            "Organização",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user37",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 38,
+        "nome": "Clara Silva",
+        "foto": "./images/foto38.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Curitiba/PR",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Power BI",
+            "CSS",
+            "Docker"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user38",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 39,
+        "nome": "Lucas Ribeiro",
+        "foto": "./images/foto39.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Curitiba/PR",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Power BI",
+            "JavaScript",
+            "Python"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user39",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 40,
+        "nome": "Rafaela Oliveira",
+        "foto": "./images/foto40.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Python",
+            "Node.js",
+            "Figma",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user40",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 41,
+        "nome": "Clara Albuquerque",
+        "foto": "./images/foto41.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "HTML",
+            "CSS",
+            "Power BI",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Organização",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user41",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 42,
+        "nome": "Rafaela Martins",
+        "foto": "./images/foto42.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Campinas/SP",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "JavaScript",
+            "Power BI",
+            "Docker"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user42",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 43,
+        "nome": "Clara Albuquerque",
+        "foto": "./images/foto43.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Campinas/SP",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "React",
+            "Node.js",
+            "Figma",
+            "Python"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user43",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 44,
+        "nome": "Pedro Ferreira",
+        "foto": "./images/foto44.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Campinas/SP",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "Docker",
+            "CSS",
+            "React"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user44",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 45,
+        "nome": "Lucas Ferreira",
+        "foto": "./images/foto45.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Campinas/SP",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "JavaScript",
+            "React",
+            "Python"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user45",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 46,
+        "nome": "Clara Mendes",
+        "foto": "./images/foto46.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "HTML",
+            "JavaScript",
+            "SQL"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user46",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 47,
+        "nome": "Beatriz Ribeiro",
+        "foto": "./images/foto47.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "São Paulo/SP",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
+            "React",
+            "HTML"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user47",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 48,
+        "nome": "Beatriz Mendes",
+        "foto": "./images/foto48.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Curitiba/PR",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "Node.js",
+            "Python",
+            "Figma"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user48",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 49,
+        "nome": "Sofia Silva",
+        "foto": "./images/foto49.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Curitiba/PR",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Figma",
+            "Power BI",
+            "SQL"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user49",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 50,
+        "nome": "Sofia Barbosa",
+        "foto": "./images/foto50.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Curitiba/PR",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "CSS",
+            "Power BI",
+            "HTML"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user50",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 51,
+        "nome": "Ana Oliveira",
+        "foto": "./images/foto51.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Salvador/BA",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Docker",
+            "JavaScript",
+            "React"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user51",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 52,
+        "nome": "Rafaela Ribeiro",
+        "foto": "./images/foto52.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Salvador/BA",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "SQL",
+            "React",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Organização",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user52",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 53,
+        "nome": "Mariana Oliveira",
+        "foto": "./images/foto53.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "Node.js",
+            "Power BI",
+            "HTML"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user53",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 54,
+        "nome": "Rafaela Oliveira",
+        "foto": "./images/foto54.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "React",
+            "Node.js",
+            "HTML",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user54",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 55,
+        "nome": "Beatriz Oliveira",
+        "foto": "./images/foto55.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "Figma",
+            "JavaScript",
+            "React",
+            "Python"
+        ],
+        "softSkills": [
+            "Organização",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user55",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 56,
+        "nome": "Rafaela Martins",
+        "foto": "./images/foto56.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Campinas/SP",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "SQL",
+            "React",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user56",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 57,
+        "nome": "Ana Martins",
+        "foto": "./images/foto57.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "São Paulo/SP",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "React",
+            "SQL",
+            "JavaScript",
+            "Figma"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user57",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 58,
+        "nome": "Sofia Santos",
+        "foto": "./images/foto58.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Salvador/BA",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "CSS",
+            "React",
+            "Power BI",
+            "Python"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user58",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 59,
+        "nome": "João Martins",
+        "foto": "./images/foto59.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Campinas/SP",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Figma",
+            "React",
+            "CSS",
+            "HTML"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user59",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 60,
+        "nome": "João Ferreira",
+        "foto": "./images/foto60.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
+            "SQL",
+            "React"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user60",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 61,
+        "nome": "Thiago Santos",
+        "foto": "./images/foto61.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "Python",
+            "Docker",
+            "CSS",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user61",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 62,
+        "nome": "Thiago Mendes",
+        "foto": "./images/foto62.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "São Paulo/SP",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
+            "SQL",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user62",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 63,
+        "nome": "Mariana Rocha",
+        "foto": "./images/foto63.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "React",
+            "SQL",
+            "CSS",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user63",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 64,
+        "nome": "Mariana Martins",
+        "foto": "./images/foto64.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Campinas/SP",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "Python",
+            "CSS",
+            "Figma"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user64",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 65,
+        "nome": "Ana Ribeiro",
+        "foto": "./images/foto65.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "São Paulo/SP",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
+            "Docker",
+            "Python"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user65",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 66,
+        "nome": "Thiago Albuquerque",
+        "foto": "./images/foto66.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "React",
+            "Node.js",
+            "Figma",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user66",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 67,
+        "nome": "Lucas Rocha",
+        "foto": "./images/foto67.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "São Paulo/SP",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "Docker",
+            "Node.js",
+            "React",
+            "HTML"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user67",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 68,
+        "nome": "Ana Martins",
+        "foto": "./images/foto68.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "São Paulo/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user68",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 69,
+        "nome": "Sofia Barbosa",
+        "foto": "./images/foto69.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Campinas/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Power BI",
+            "Docker",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user69",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 70,
+        "nome": "Lucas Oliveira",
+        "foto": "./images/foto70.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Campinas/SP",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "React",
+            "Figma",
+            "Python",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user70",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 71,
+        "nome": "Ana Ribeiro",
+        "foto": "./images/foto71.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Curitiba/PR",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "CSS",
+            "Docker",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user71",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 72,
+        "nome": "Beatriz Albuquerque",
+        "foto": "./images/foto72.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "CSS",
+            "SQL",
+            "Node.js",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user72",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 73,
+        "nome": "Beatriz Martins",
+        "foto": "./images/foto73.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "SQL",
+            "HTML",
+            "React",
+            "Docker"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user73",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 74,
+        "nome": "Sofia Silva",
+        "foto": "./images/foto74.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Salvador/BA",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Power BI",
+            "Figma",
+            "Python"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user74",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 75,
+        "nome": "Sofia Silva",
+        "foto": "./images/foto75.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Curitiba/PR",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "Python",
+            "HTML",
+            "JavaScript",
+            "Figma"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user75",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 76,
+        "nome": "Lucas Rocha",
+        "foto": "./images/foto76.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Salvador/BA",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Docker",
+            "CSS",
+            "Figma",
+            "HTML"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user76",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 77,
+        "nome": "Beatriz Ferreira",
+        "foto": "./images/foto77.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "São Paulo/SP",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "Figma",
+            "HTML",
+            "Python",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user77",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 78,
+        "nome": "Clara Rocha",
+        "foto": "./images/foto78.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Python",
+            "Node.js",
+            "React",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user78",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 79,
+        "nome": "Sofia Oliveira",
+        "foto": "./images/foto79.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Salvador/BA",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Figma",
+            "Power BI",
+            "Docker"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user79",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 80,
+        "nome": "Ana Silva",
+        "foto": "./images/foto80.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Campinas/SP",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Python",
+            "Power BI",
+            "Docker",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user80",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 81,
+        "nome": "Sofia Rocha",
+        "foto": "./images/foto81.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "São Paulo/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Node.js",
+            "Python",
+            "SQL"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user81",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 82,
+        "nome": "Rafaela Martins",
+        "foto": "./images/foto82.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "React",
+            "HTML",
+            "SQL",
+            "Figma"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user82",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 83,
+        "nome": "João Santos",
+        "foto": "./images/foto83.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Figma",
+            "Node.js",
+            "Python"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user83",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 84,
+        "nome": "Mariana Ferreira",
+        "foto": "./images/foto84.jpg",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Curitiba/PR",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "React",
+            "Python",
+            "Docker",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user84",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 85,
+        "nome": "Lucas Ferreira",
+        "foto": "./images/foto85.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Curitiba/PR",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Python",
+            "Figma",
+            "Docker",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user85",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 86,
+        "nome": "Pedro Barbosa",
+        "foto": "./images/foto86.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em ti.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "TI",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
+            "Figma",
+            "Docker"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de ti."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user86",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 87,
+        "nome": "Pedro Santos",
+        "foto": "./images/foto87.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Curitiba/PR",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Python",
+            "Node.js",
+            "CSS",
+            "Figma"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user87",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 88,
+        "nome": "Clara Rocha",
+        "foto": "./images/foto88.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "Docker",
+            "HTML",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user88",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 89,
+        "nome": "Ana Rocha",
+        "foto": "./images/foto89.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em dados.",
+        "localizacao": "Salvador/BA",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Figma",
+            "Node.js",
+            "Docker"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de dados."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user89",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 90,
+        "nome": "João Albuquerque",
+        "foto": "./images/foto90.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Salvador/BA",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Docker",
+            "Python",
+            "CSS",
+            "HTML"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user90",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 91,
+        "nome": "Mariana Barbosa",
+        "foto": "./images/foto91.jpg",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "CSS",
+            "React",
+            "Figma",
+            "Python"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user91",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 92,
+        "nome": "Mariana Ribeiro",
+        "foto": "./images/foto92.jpg",
+        "cargo": "Designer UX/UI",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "React",
+            "HTML",
+            "Docker",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Designer UX/UI",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user92",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 93,
+        "nome": "Thiago Santos",
+        "foto": "./images/foto93.jpg",
+        "cargo": "Product Owner",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Curitiba/PR",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "JavaScript",
+            "HTML",
+            "Docker"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Product Owner",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user93",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 94,
+        "nome": "Ana Mendes",
+        "foto": "./images/foto94.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "Figma",
+            "HTML",
+            "Node.js",
+            "Python"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user94",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 95,
+        "nome": "Beatriz Ferreira",
+        "foto": "./images/foto95.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Node.js",
+            "HTML",
+            "Python"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user95",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 96,
+        "nome": "Lucas Mendes",
+        "foto": "./images/foto96.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em rh.",
+        "localizacao": "Salvador/BA",
+        "area": "RH",
+        "habilidadesTecnicas": [
+            "Docker",
+            "CSS",
+            "SQL",
+            "React"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de rh."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user96",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 97,
+        "nome": "João Silva",
+        "foto": "./images/foto97.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "São Paulo/SP",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
+            "Figma",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user97",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 98,
+        "nome": "Thiago Albuquerque",
+        "foto": "./images/foto98.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Salvador/BA",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "React",
+            "Python",
+            "Docker"
+        ],
+        "softSkills": [
+            "Organização",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user98",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 99,
+        "nome": "Pedro Ribeiro",
+        "foto": "./images/foto99.jpg",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Curitiba/PR",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Node.js",
+            "Power BI",
+            "CSS"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de desenvolvimento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user99",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 100,
+        "nome": "Pedro Silva",
+        "foto": "./images/foto100.jpg",
+        "cargo": "QA Analyst",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "Power BI",
+            "JavaScript",
+            "Docker"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "QA Analyst",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de engenharia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user100",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Certificação Profissional"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    }
+]

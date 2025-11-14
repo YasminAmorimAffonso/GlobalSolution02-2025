@@ -1,12 +1,16 @@
+
+
 import Footer from './components/Footer';
 
 import Header from './components/Header';
+
+import Modal from './components/Modal.jsx';
 
 import './Home.css';
 
 import ColorChangeButton from './components/ColorChangeButton.jsx';
 
-import { use, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 export default function Home() {
 
@@ -14,8 +18,8 @@ export default function Home() {
 
   const [idSecHero, setIdSecHero] = useState("secHero");
   const [imgHero, setImgHero] = useState("/assets/imgs/elipseEscura.svg");
-  const [txtColor, setTxtColor] = useState("txt");
   const [secMiddle, setSecMiddle] = useState("secMiddle");
+  const [secPerfis, setSecPerfis] = useState("secPerfis");
   const [secFiltros, setSecFiltros] = useState("secFiltros");
   const [linhaUpSecFiltros, setlinhaUpSecFiltros] = useState("/assets/imgs/linhaFiltrosClaro1.svg");
   const [linhaDownSecFiltros, setlinhaDownSecFiltros] = useState("/assets/imgs/linhaFiltrosClaro2.svg");
@@ -36,9 +40,9 @@ export default function Home() {
 
         setImgHero("/assets/imgs/elipseBranca.svg");
 
-        setTxtColor("txtEscuro");
-
         setSecMiddle("secMiddleEscura");
+
+        setSecPerfis("secPerfisEscura");
 
         setSecFiltros("secFiltrosEscura");
 
@@ -58,9 +62,9 @@ export default function Home() {
 
         setImgHero("/assets/imgs/elipseEscura.svg");
 
-        setTxtColor("txt");
-
         setSecMiddle("secMiddle");
+
+        setSecPerfis("secPerfis");
 
         setSecFiltros("secFiltros");
 
@@ -149,6 +153,12 @@ export default function Home() {
             </div>
 
             <img src="/assets/imgs/vectorLaptop.svg" alt="" className='relative w-75 mt-10'/>
+
+        </div>
+
+        <div id={secPerfis}>
+
+          <Modal/>
 
         </div>
 
