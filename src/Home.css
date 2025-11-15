@@ -1,6 +1,3 @@
-
-
-
 #secHero {
 
     background-image: url("/assets/imgs/fundoSecHero.svg");
@@ -15,6 +12,16 @@
 
 }
 
+
+#secMiddle, #secMiddleEscura {
+
+    img {
+
+        transform: translate(-80px);
+
+    }
+
+}
 
 
 #secMiddle {
@@ -64,97 +71,194 @@
 }
 
 
+#secPerfis {
+
+    background-image: url("/assets/imgs/fundoSecPerfisClaro.svg");
+
+    background-size: cover;
+
+    h1, p {
+
+        color: #1C2D43;
+
+    }
+
+
+    #secFiltros {
+
+        background-image: url("/assets/imgs/fundoFiltros.svg");
+
+        background-size: cover;
+
+    }
+/* 
+    #secFiltrosEscura {
+
+        background-image: url("/assets/imgs/fundoFiltrosEscuro.svg");
+
+        background-size: cover;
+
+    } */
+
+}
+
+
+#secPerfisEscura {
+
+    background-image: url("/assets/imgs/fundoSecPerfisEscuro.svg");
+
+    background-position: -100px;
+    background-size: cover;
+
+    h1, p {
+
+        color: #E6F1FF;
+
+    }
+
+}
+
+
 @media (min-width: 768px) {
 
     #forma1 {
 
-        width: 700px;
+        width: 150vw;
 
-        transform: translate(300px, -200px);
+        transform: translate(100px, 0px);
 
         overflow: hidden;
 
     }
 
-    #secHero,
-    #secHeroEscura {
+    #forma2 {
 
-        overflow: hidden;
-
-        #imgSecHero {
-
-            margin-top: 350px;
-
-        }
+        transform: translate(-100px, -100px);
 
     }
 
-    #secMiddle {
+    #content-home {
 
-        overflow: hidden;
+        margin-top: -685px;
 
-        div {
+        #secHero,
+        #secHeroEscura {
 
-            width: 600px;
+            overflow: hidden;
 
-            padding: 0px 50px;
+            height: 650px;
 
-            h1 {
+            #imgSecHero {
 
-                font-size: 30px;
-
-            }
-
-            p {
-
-                width: 120%;
+                margin-top: 100px;
 
             }
 
-        }
+            div {
 
-        img {
+                transform: translate(0px, -100px);
 
-            width: 500px;
+                p {
 
-        }
+                    font-size: 18px;
 
-    }
+                    width: 350px;
 
+                    margin-top: 20px;
 
-    #secMiddleEscura {
-
-        overflow: hidden;
-
-        div {
-
-            width: 600px;
-
-            padding: 0px 50px;
-
-            h1 {
-
-                font-size: 30px;
-
-            }
-
-            p {
-
-                width: 120%;
+                }
 
             }
 
         }
 
-        img {
+        #secMiddle {
 
-            width: 500px;
+            overflow: hidden;
+
+            div {
+
+                padding: 0px 50px;
+
+                h1 {
+
+                    font-size: 30px;
+
+                    width: 400px;
+
+                }
+
+                p {
+
+                    width: 350px;
+
+                    font-size: 18px;
+
+                    z-index: 1;
+
+                }
+
+            }
+
+            img {
+
+                width: 500px;
+
+                margin-left: -100px;
+
+                z-index: 1;
+
+            }
+
+        }
+
+
+        #secMiddleEscura {
+
+            overflow: hidden;
+
+            div {
+
+                width: 600px;
+
+                padding: 0px 50px;
+
+                h1 {
+
+                    font-size: 30px;
+
+                    width: 400px;
+
+                }
+
+                p {
+
+                    width: 350px;
+
+                    font-size: 18px;
+
+                    z-index: 1;
+
+                }
+
+            }
+
+            img {
+
+                width: 500px;
+
+                margin-left: -100px;
+
+                z-index: 1;
+
+            }
 
         }
 
     }
 
 }
+
 
 
 @media (min-width: 980px) {
@@ -169,118 +273,142 @@
 
     }
 
-    #secHero,
-    #secHeroEscura {
 
-        overflow: hidden;
+    #forma2 {
 
-        #imgSecHero {
+        width: 1500px;
 
-            width: 715px;
+        transform: translate(-300px, 200px);
 
-            margin-top: 450px;
+        z-index: 0;
+
+    }
+
+
+
+    #content-home {
+
+        margin-top: -860px;
+
+        #secHero,
+        #secHeroEscura {
+
+            overflow: hidden;
+
+            height: 900px;
+
+            #imgSecHero {
+
+                width: 715px;
+
+                margin-top: 225px;
+
+            }
+
+
+            div {
+
+                transform: translate(0px, -275px);
+
+                img {
+
+                    width: 500px;
+
+                }
+
+                p {
+
+                    transform: translate(0px, 10px);
+
+                    font-size: 30px;
+
+                    width: 40%;
+
+                }
+
+
+            }
 
         }
 
+        #secMiddle {
 
-        div {
+            overflow: hidden;
 
-            transform: translate(0px, -175px);
+            div {
+
+                width: 650px;
+
+                padding: 0px 75px;
+
+                h1 {
+
+
+                    font-size: 40px;
+
+                    width: 100%;
+
+                }
+
+                p {
+
+                    width: 650px;
+
+                    font-size: 30px;
+
+                }
+
+            }
 
             img {
 
-                width: 500px;
+                width: 850px;
 
-            }
+                transform: translate(100px, 0px);
 
-            p {
-
-                transform: translate(0px, 10px);
-
-                font-size: 30px;
-
-                width: 40%;
-
-            }
-
-
-        }
-
-    }
-
-    #secMiddle {
-
-        overflow: hidden;
-
-        div {
-
-            width: 1500px;
-
-            padding: 0px 75px;
-
-            h1 {
-
-
-                font-size: 40px;
-
-            }
-
-            p {
-
-                width: 150%;
-
-                font-size: 30px;
 
             }
 
         }
 
-        img {
 
-            width: 850px;
+        #secMiddleEscura {
 
-            transform: translate(100px, 0px);
+            overflow: hidden;
 
+            div {
 
-        }
+                width: 650px;
 
-    }
+                padding: 0px 75px;
 
-
-    #secMiddleEscura {
-
-        overflow: hidden;
-
-        div {
-
-            width: 1500px;
-
-            padding: 0px 75px;
-
-            h1 {
+                h1 {
 
 
-                font-size: 40px;
+                    font-size: 40px;
 
-            }
+                    width: 100%;
 
-            p {
+                }
 
-                width: 150%;
+                p {
 
-                font-size: 30px;
+                    width: 650px;
+
+                    font-size: 30px;
+
+                }
 
             }
 
-        }
+            img {
 
-        img {
+                width: 850px;
 
-            width: 850px;
-
-            transform: translate(100px, 0px);
+                transform: translate(100px, 0px);
 
 
+            }
 
         }
 

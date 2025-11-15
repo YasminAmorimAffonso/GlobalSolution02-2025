@@ -40,7 +40,7 @@ export default function ColorChangeButton({ onClick }) {
 
     return (
 
-        <div className="fixed z-10 w-full flex justify-end p-5">
+        <div className="fixed z-10 w-full flex justify-end p-2">
 
             <button id="botao-CCButton" onClick={colorChange} className="mt-35  w-15 hover:scale-110 cursor-pointer">
 

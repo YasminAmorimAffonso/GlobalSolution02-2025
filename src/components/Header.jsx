@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 
-export default function Header() {
+export default function Header({secHero, secMiddle, secPerfis}) {
 
     const [menuOpen, setMenuOpen] = useState(false);
 
@@ -16,11 +16,11 @@ export default function Header() {
 
             <div className="hidden md:flex flex-wrap flex-row justify-around items-center w-3/5">
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Seja bem-vindo(a)</a>
+                <a href={`#${secHero}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Seja bem-vindo(a)</a>
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Conectando o Futuro do Trabalho</a>
+                <a href={`#${secMiddle}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Conectando o Futuro do Trabalho</a>
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Explore Talentos e Conexões</a>
+                <a href={`#${secPerfis}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Explore Talentos e Conexões</a>
 
             </div>
 
@@ -40,11 +40,11 @@ export default function Header() {
             
             <div className="absolute top-[125px] left-0 w-full bg-[#000000cc] flex flex-col items-center space-y-4 py-6 md:hidden">
                     
-                    <a href="#" className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Seja bem-vindo(a)</a>
+                    <a href={`#${secHero}`} className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Seja bem-vindo(a)</a>
 
-                    <a href="#" className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Conectando o Futuro do Trabalho</a>
+                    <a href={`#${secMiddle}`} className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Conectando o Futuro do Trabalho</a>
 
-                    <a href="#" className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Explore Talentos e Conexões</a>
+                    <a href={`#${secPerfis}`} className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Explore Talentos e Conexões</a>
 
                 </div>
 

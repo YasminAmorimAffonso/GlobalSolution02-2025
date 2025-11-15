@@ -4,7 +4,7 @@
 import "./Footer.css";
 
 
-export default function Footer() {
+export default function Footer({secHero, secMiddle, secPerfis}) {
 
 
     return (
@@ -31,11 +31,11 @@ export default function Footer() {
 
             <div id="linksSections-footer" className="flex flex-col justify-around items-center h-[150px] md:w-2/3 lg:h-[250px]">
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Seja bem-vindo(a)</a>
+                <a href={`#${secHero}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Seja bem-vindo(a)</a>
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Conectando o Futuro do Trabalho</a>
+                <a href={`#${secMiddle}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Conectando o Futuro do Trabalho</a>
 
-                <a href="#" className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Explore Talentos e Conexões</a>
+                <a href={`#${secPerfis}`} className="font-[neubau] text-[#E6F1FF] text-[17px] lg:text-[25px] hover:scale-110 transition-transform">Explore Talentos e Conexões</a>
 
             </div>
 

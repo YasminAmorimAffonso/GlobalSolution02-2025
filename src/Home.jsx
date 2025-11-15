@@ -28,6 +28,11 @@ export default function Home() {
   const [arrowSecFiltros, setArrowSecFiltros] = useState("/assets/imgs/setaFiltrosClaro.svg");
   const [colorCard, setColorCard] = useState("card");
 
+  const areas = [...new Set(perfis.map(p => p.area))];
+  const cidades = [...new Set(perfis.map(p => p.localizacao))];
+  const tecnologias = [...new Set(perfis.flatMap(p => p.habilidadesTecnicas))];
+
+
   useEffect(() => {
 
     for (let n = 0; n < 5; n++) {
@@ -124,27 +129,27 @@ export default function Home() {
 
   return (
 
-    <div>
+    <div className="overflow-x-hidden">
 
-      <Header />
+      <Header secHero={idSecHero} secMiddle={secMiddle} secPerfis={secPerfis} />
 
       <ColorChangeButton onClick={verifyColor} />
 
-      <div className='h-full flex flex-col'>
+      <img id='forma1' src="/assets/imgs/Forma1.svg" alt="" className='w-[1000px] translate-y-[450px] translate-x-[150px]' />
 
-        <img id='forma1' src="/assets/imgs/Forma1.svg" alt="" className='absolute translate-y-175 translate-x-35' />
+      <div id='content-home' className='h-full flex flex-col overflow-x-hidden -mt-[425px]'>
 
         <div id={idSecHero} className='w-full h-screen bg-cover bg-center flex justify-center items-center flex-col overflow-hidden'>
 
 
-          <img id='imgSecHero' src={imgHero} alt="" className='mt-50 w-120 z-1' />
+          <img id='imgSecHero' src={imgHero} alt="" className='mt-50 w-120 z-1 pt-60 p-1' />
 
 
-          <div className='z-2 -translate-y-87 flex flex-col justify-center items-center'>
+          <div className='z-2 -translate-y-60 flex flex-col justify-center items-center'>
 
-            <img src="/assets/imgs/sejaBemVindo.svg" alt="Seja Bem-Vindo(a)" className='w-75' />
+            <img src="/assets/imgs/sejaBemVindo.svg" alt="Seja Bem-Vindo(a)" className='w-75 ml-5' />
 
-            <p className='w-[350px] translate-y-7 text-center font-[neubau] text-[21px]'>Impulsionando conexões que transformam carreiras, aproximando profissionais, oportunidades e propósitos. Explore competências, descubra talentos e participe de uma rede colaborativa que constrói um futuro mais inovador, inclusivo e sustentável.</p>
+            <p className='w-[250px] translate-y-3 text-center font-[neubau] text-[14px]'>Impulsionando conexões que transformam carreiras, aproximando profissionais, oportunidades e propósitos. Explore competências, descubra talentos e participe de uma rede colaborativa que constrói um futuro mais inovador, inclusivo e sustentável.</p>
 
           </div>
 
@@ -152,44 +157,132 @@ export default function Home() {
 
         <div id={secMiddle} className='h-1/2 bg-cover bg-center flex flex-row items-center pt-20 pb-20 p-5 overflow-hidden'>
 
-          <div className='w-[200px] z-1'>
+          <div className=' z-2'>
 
-            <h1 className='font-[cyrovoid]'>Conectando o Futuro do Trabalho</h1>
+            <h1 className='font-[cyrovoid] w-[200px]'>Conectando o Futuro do Trabalho</h1>
 
-            <p className='w-[225px] font-[neubau] mt-10'>A SkillLoop nasce com o propósito de aproximar profissionais de diferentes áreas, promovendo conexões autênticas e colaborativas. Acreditamos que o futuro do trabalho é construído com base em competências, propósito e diversidade, e que a tecnologia pode ser o elo capaz de transformar relações profissionais em oportunidades reais de crescimento.
+            <p className='w-[150px] font-[neubau] text-[12px] mt-10'>A SkillLoop nasce com o propósito de aproximar profissionais de diferentes áreas, promovendo conexões autênticas e colaborativas. Acreditamos que o futuro do trabalho é construído com base em competências, propósito e diversidade, e que a tecnologia pode ser o elo capaz de transformar relações profissionais em oportunidades reais de crescimento.
               Nossa plataforma incentiva a troca de experiências, o desenvolvimento contínuo e a formação de redes significativas, unindo talentos que desejam impulsionar juntos um mercado mais inclusivo, sustentável e humano.</p>
 
           </div>
 
-          <img src="/assets/imgs/vectorLaptop.svg" alt="" className='relative w-75 mt-10' />
+          <img src="/assets/imgs/vectorLaptop.svg" alt="" className='relative w-60 mt-10' />
 
         </div>
 
-        <div id={secPerfis}>
+        <img id='forma2' src="/assets/imgs/Forma2.svg" alt="Forma 2" className='absolute w-[1000px] translate-y-[1100px] translate-x-[-75px] z-0' />
+
+        <div id={secPerfis} className='h-[1000px] -mb-[150px] flex flex-col items-center pt-[75px]'>
+
+
+          <h1 className='font-[cyrovoid] z-1'>Explore Talentos e Conexões</h1>
+
+
+          <p className='z-1 font-[neubau] text-[12px] mt-10 mb-20 w-2/3 text-center'>Descubra profissionais de diversas áreas prontos para colaborar, aprender e transformar o futuro do trabalho.
+            Cada perfil apresenta um universo único de competências técnicas, soft skills e propósitos pessoais, conectando você a pessoas que compartilham os mesmos valores e ambições.
+            Encontre talentos inspiradores, troque experiências e construa uma rede profissional mais humana, inclusiva e colaborativa.</p>
+
+
+          <div id={secFiltros}>
+
+            <div>
+
+              <h4>Filtros</h4>
+
+              <button><img src={arrowSecFiltros} alt="" /></button>
+
+            </div>
+
+            <img src={linhaUpSecFiltros} alt="" />
+
+            <div id="contentFiltros-home">
+
+              <div className='flex flex-wrap'>
+
+                <h6>Área</h6>
+
+                {areas.map((a) => (
+
+                  <div>
+
+                    <input type="checkbox" name="" idA={a} />
+
+                    <p>{a}</p>
+
+                  </div>
+
+                ))}
+
+              </div>
+
+              <div className='flex flex-wrap'>
+
+                <h6>Tecnologia</h6>
+
+                {tecnologias.map((t) => (
+
+                  <div>
+
+                    <input type="checkbox" name="" idT={t} />
+
+                    <p>{t}</p>
+
+                  </div>
+
+                ))}
+
+              </div>
+
+              <div className='flex flex-wrap'>
+
+                <h6>Cidade</h6>
+
+                {cidades.map((c) => (
+
+                  <div>
+
+                    <input type="checkbox" name="" idC={c} />
+
+                    <p>{c}</p>
+
+                  </div>
+
+                ))}
+
+              </div>
+
+
+              <button>Aplicar</button>
+
+
+              <img src={linhaDownSecFiltros} alt="" />
+
+            </div>
+
+          </div>
+
 
           {/* <Modal colorCard={colorCard}/> */}
 
-          
-
-          {perfis.map((p) => (
+          {/* {perfis.map((p) => (
 
             <div id={colorCard} idPerfil={p.id}>
 
               <h1>{p.nome}</h1>
 
-                {p.habilidadesTecnicas.map((h) => (
-                  <p>{h}</p>
-                ))}
+              {p.habilidadesTecnicas.map((h) => (
+                <p>{h}</p>
+              ))}
 
             </div>
 
-          ))}
+          ))} */}
 
         </div>
 
       </div>
 
-      <Footer />
+      <Footer secHero={idSecHero} secMiddle={secMiddle} secPerfis={secPerfis} />
 
     </div>
 
