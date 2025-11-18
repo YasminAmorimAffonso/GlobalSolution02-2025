@@ -26,7 +26,10 @@ export default function Home() {
   const [linhaUpSecFiltros, setlinhaUpSecFiltros] = useState("/assets/imgs/linhaFiltrosClaro1.svg");
   const [linhaDownSecFiltros, setlinhaDownSecFiltros] = useState("/assets/imgs/linhaFiltrosClaro2.svg");
   const [arrowSecFiltros, setArrowSecFiltros] = useState("/assets/imgs/setaFiltrosClaro.svg");
+  const [colorButton, setColorButton] = useState("buttonAplicar");
   const [colorCard, setColorCard] = useState("card");
+  const [filtrosAberto, setFiltrosAberto] = useState(false);
+
 
   const areas = [...new Set(perfis.map(p => p.area))];
   const cidades = [...new Set(perfis.map(p => p.localizacao))];
@@ -66,6 +69,8 @@ export default function Home() {
 
         setArrowSecFiltros("/assets/imgs/setaFiltrosEscuro.svg");
 
+        setColorButton("buttonAplicarEscuro");
+
         setColorCard("cardEscuro");
 
       }
@@ -87,6 +92,8 @@ export default function Home() {
         setlinhaDownSecFiltros("/assets/imgs/linhaFiltrosClaro2.svg");
 
         setArrowSecFiltros("/assets/imgs/setaFiltrosClaro.svg");
+
+        setColorButton("buttonAplicar");
 
         setColorCard("card");
 
@@ -172,7 +179,7 @@ export default function Home() {
 
         <img id='forma2' src="/assets/imgs/Forma2.svg" alt="Forma 2" className='absolute w-[1000px] translate-y-[1100px] translate-x-[-75px] z-0' />
 
-        <div id={secPerfis} className='h-[1000px] -mb-[150px] flex flex-col items-center pt-[75px]'>
+        <div id={secPerfis} className='h-[1500px] -mb-[150px] flex flex-col items-center pt-[75px]'>
 
 
           <h1 className='font-[cyrovoid] z-1'>Explore Talentos e Conexões</h1>
@@ -183,79 +190,84 @@ export default function Home() {
             Encontre talentos inspiradores, troque experiências e construa uma rede profissional mais humana, inclusiva e colaborativa.</p>
 
 
-          <div id={secFiltros}>
+          <div id={secFiltros} className='z-1 w-screen'>
 
-            <div>
+            <div className='flex flex-row w-4/5 justify-end pb-3'>
 
-              <h4>Filtros</h4>
+              <h4 className='mr-5'>Filtros</h4>
 
-              <button><img src={arrowSecFiltros} alt="" /></button>
+              <button onClick={() => setFiltrosAberto(!filtrosAberto)} className="transition-transform duration-300"><img src={arrowSecFiltros} alt="Abrir Filtros" className={`w-6 h-6 transition-transform duration-300 ${filtrosAberto ? "rotate-180" : "rotate-0"}`} /></button>
 
             </div>
 
-            <img src={linhaUpSecFiltros} alt="" />
+            <img id='linhaUpSecFiltros' src={linhaUpSecFiltros} alt="" />
 
-            <div id="contentFiltros-home">
+            <div id={active === true ? "contentFiltrosEscuro-home" : "contentFiltros-home"} className={`flex flex-col justify-center overflow-hidden transition-all duration-500 rounded-xl ${filtrosAberto ? "max-h-none opacity-100 p-6" : "max-h-0 opacity-0 p-0 bg-transparent"}`}>
 
-              <div className='flex flex-wrap'>
+              <div className='w-screen flex flex-row flex-wrap justify-center items-center mt-10'>
 
-                <h6>Área</h6>
+                <div className='flex flex-wrap flex-col justify-around items-start h-50 w-[365px] mb-10'>
 
-                {areas.map((a) => (
+                  <h6 className='mb-3'>Área</h6>
 
-                  <div>
+                  {areas.map((a) => (
 
-                    <input type="checkbox" name="" idA={a} />
+                    <div className='flex flex-wrap items-center'>
 
-                    <p>{a}</p>
+                      <input type="checkbox" name="" idA={a} />
 
-                  </div>
+                      <p className='ml-2'>{a}</p>
 
-                ))}
+                    </div>
+
+                  ))}
+
+
+
+                </div>
+
+                <div className='flex flex-wrap flex-col justify-around items-start h-50 w-[310px] mb-10'>
+
+                  <h6 className='mb-3'>Tecnologia</h6>
+
+                  {tecnologias.map((t) => (
+
+                    <div className='flex flex-wrap items-center'>
+
+                      <input type="checkbox" name="" idT={t} />
+
+                      <p className='ml-2'>{t}</p>
+
+                    </div>
+
+                  ))}
+
+                </div>
+
+                <div className='flex flex-wrap flex-col justify-around items-start h-43 w-[323px] mb-10'>
+
+                  <h6 className='mb-3'>Cidade</h6>
+
+                  {cidades.map((c) => (
+
+                    <div className='flex flex-wrap items-center'>
+
+                      <input type="checkbox" name="" idC={c} />
+
+                      <p className='ml-2 w-[50px]'>{c}</p>
+
+                    </div>
+
+                  ))}
+
+                </div>
 
               </div>
 
-              <div className='flex flex-wrap'>
-
-                <h6>Tecnologia</h6>
-
-                {tecnologias.map((t) => (
-
-                  <div>
-
-                    <input type="checkbox" name="" idT={t} />
-
-                    <p>{t}</p>
-
-                  </div>
-
-                ))}
-
-              </div>
-
-              <div className='flex flex-wrap'>
-
-                <h6>Cidade</h6>
-
-                {cidades.map((c) => (
-
-                  <div>
-
-                    <input type="checkbox" name="" idC={c} />
-
-                    <p>{c}</p>
-
-                  </div>
-
-                ))}
-
-              </div>
+              <button id={colorButton} className='font-[neubau] p-5 mb-10 text-[20px]'>Aplicar</button>
 
 
-              <button>Aplicar</button>
-
-
-              <img src={linhaDownSecFiltros} alt="" />
+              <img src={linhaDownSecFiltros} alt="" className='-mb-[25px]' />
 
             </div>
 

@@ -1,3 +1,38 @@
+input[type="checkbox"] {
+
+    appearance: none;
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: 2px solid #1C2D43;
+    width: 18px;
+    height: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+
+
+
+}
+
+input[type="checkbox"]:checked {
+
+    background-color: #1C2D43;
+
+}
+
+
+input[type="checkbox"]:checked::after {
+
+    content: "✔";
+    color: white;
+    font-size: 17px;
+    position: absolute;
+    left: 2.75px;
+    top: -5px;
+
+}
+
+
 #secHero {
 
     background-image: url("/assets/imgs/fundoSecHero.svg");
@@ -13,7 +48,8 @@
 }
 
 
-#secMiddle, #secMiddleEscura {
+#secMiddle,
+#secMiddleEscura {
 
     img {
 
@@ -77,28 +113,126 @@
 
     background-size: cover;
 
-    h1, p {
+    h1,
+    p {
 
         color: #1C2D43;
 
     }
 
+    h4 {
 
-    #secFiltros {
+        font-family: "neubau";
+
+        color: #E6F1FF;
+
+        font-size: 25px;
+
+    }
+
+
+
+    #contentFiltros-home {
 
         background-image: url("/assets/imgs/fundoFiltros.svg");
 
         background-size: cover;
+        background-repeat: no-repeat;
+
+        h6 {
+
+            font-weight: bold;
+
+            font-size: 25px;
+
+        }
+
+        p {
+
+            font-size: 20px;
+
+        }
+
+
+        h6,
+        p {
+
+            font-family: "neubau";
+
+            color: #E6F1FF;
+
+        }
+
+
+        #buttonAplicar {
+
+            background-image: url("/assets/imgs/buttonAplicarFiltro.svg");
+
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            color: #E6F1FF;
+
+            font-weight: bold;
+
+        }
 
     }
-/* 
-    #secFiltrosEscura {
+
+    #contentFiltrosEscuro-home {
 
         background-image: url("/assets/imgs/fundoFiltrosEscuro.svg");
 
         background-size: cover;
 
-    } */
+
+        h6 {
+
+            font-weight: bold;
+
+            font-size: 25px;
+
+        }
+
+        p {
+
+            font-size: 20px;
+
+        }
+
+
+        h6,
+        p {
+
+            font-family: "neubau";
+
+            color: #E6F1FF;
+
+        }
+
+
+        #buttonAplicarEscuro {
+
+            background-color: #0e9a59c4;
+
+            font-weight: bold;
+
+        }
+
+    }
+
+
+
+    #buttonAplicar:hover {
+
+        cursor: pointer;
+
+        scale: 110%;
+
+        transition: 0.3s;
+
+    }
 
 }
 
@@ -110,13 +244,15 @@
     background-position: -100px;
     background-size: cover;
 
-    h1, p {
+    h1,
+    p {
 
         color: #E6F1FF;
 
     }
 
 }
+
 
 
 @media (min-width: 768px) {
@@ -254,6 +390,43 @@
             }
 
         }
+
+        #secPerfis {
+
+            h1 {
+
+                font-size: 30px;
+
+            }
+
+            p {
+
+                font-size: 18px;
+
+            }
+
+            #secFiltros {
+
+
+                #linhaUpSecFiltros {
+
+                    width: 80%;
+
+                    margin-left: 100px;
+
+                }
+
+            }
+
+        }
+
+
+        #secPerfisEscura {
+
+            #secFiltrosEscura {}
+
+        }
+
 
     }
 
@@ -411,6 +584,75 @@
             }
 
         }
+
+
+        #secPerfis {
+
+            h1 {
+
+                font-size: 40px;
+
+            }
+
+            >p {
+
+                font-size: 30px;
+
+            }
+
+            h4 {
+
+                font-size: 30px;
+
+            }
+
+            #secFiltros {
+
+
+                #linhaUpSecFiltros {
+
+                    width: 90%;
+
+                    margin-left: 75px;
+
+                }
+
+                #contentFiltros-home {
+
+                    div {
+
+                        margin-left: 30px;
+
+                        div {
+
+                            display: flex;
+
+                            align-items: baseline;
+
+                            height: 100%;
+
+                            p {
+
+                                font-size: 25px;
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+        #secPerfisEscura {
+
+            #secFiltrosEscura {}
+
+        }
+
 
     }
 
