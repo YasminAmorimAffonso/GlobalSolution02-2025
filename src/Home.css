@@ -3,7 +3,7 @@ input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
     background-color: transparent;
-    border: 2px solid #1C2D43;
+    border: 2px solid #0E9A58;
     width: 18px;
     height: 18px;
     border-radius: 4px;
@@ -16,7 +16,7 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked {
 
-    background-color: #1C2D43;
+    background-color: #0E9A58;
 
 }
 
@@ -180,11 +180,54 @@ input[type="checkbox"]:checked::after {
 
     }
 
+
+}
+
+
+#secPerfisEscura {
+
+    background-image: url("/assets/imgs/fundoSecPerfisEscuro.svg");
+
+    background-position: center;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* margin-bottom: -225px; */
+
+
+    h1,
+    p {
+
+        color: #E6F1FF;
+
+    }
+
+    h4,
+    p {
+
+        font-family: "neubau";
+
+        color: #E6F1FF;
+
+    }
+
+    h4 {
+
+        font-size: 25px;
+
+    }
+
+
     #contentFiltrosEscuro-home {
 
         background-image: url("/assets/imgs/fundoFiltrosEscuro.svg");
 
         background-size: cover;
+
+        display: flex;
+
+        justify-content: center;
 
 
         h6 {
@@ -216,7 +259,20 @@ input[type="checkbox"]:checked::after {
 
             background-color: #0e9a59c4;
 
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            color: #E6F1FF;
+
             font-weight: bold;
+
+            width: 200px;
+
+            border-radius: 10px;
+
+            margin-left: 50px;
+
 
         }
 
@@ -234,26 +290,8 @@ input[type="checkbox"]:checked::after {
 
     }
 
-}
-
-
-#secPerfisEscura {
-
-    background-image: url("/assets/imgs/fundoSecPerfisEscuro.svg");
-
-    background-position: -100px;
-    background-size: cover;
-
-    h1,
-    p {
-
-        color: #E6F1FF;
-
-    }
 
 }
-
-
 
 @media (min-width: 768px) {
 

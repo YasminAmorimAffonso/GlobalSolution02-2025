@@ -267,7 +267,7 @@ export default function Home() {
               <button id={colorButton} className='font-[neubau] p-5 mb-10 text-[20px]'>Aplicar</button>
 
 
-              <img src={linhaDownSecFiltros} alt="" className='-mb-[25px]' />
+              <img id="linhaDownSecFiltros" src={linhaDownSecFiltros} alt="" className='-mb-[25px]' />
 
             </div>
 
