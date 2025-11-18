@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nome": "Pedro Santos",
-        "foto": "./images/foto1.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
         "cargo": "Product Owner",
         "resumo": "Profissional atuante em design.",
         "localizacao": "Curitiba/PR",
@@ -41,7 +41,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Certified Scrum Product Owner (CSPO)"
         ],
         "idiomas": [
             {
@@ -57,7 +57,7 @@
     {
         "id": 2,
         "nome": "Ana Barbosa",
-        "foto": "./images/foto2.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "Salvador/BA",
@@ -84,7 +84,7 @@
         "formacao": [
             {
                 "curso": "Bacharelado em Tecnologia",
-                "instituicao":"Universidade Y",
+                "instituicao": "Universidade Y",
                 "ano": "2020"
             }
         ],
@@ -96,7 +96,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Data Analytics Professional Certificate"
         ],
         "idiomas": [
             {
@@ -112,7 +112,7 @@
     {
         "id": 3,
         "nome": "João Mendes",
-        "foto": "./images/foto3.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -151,7 +151,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Professional Certificate"
         ],
         "idiomas": [
             {
@@ -167,7 +167,7 @@
     {
         "id": 4,
         "nome": "Lucas Silva",
-        "foto": "./images/foto4.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "Campinas/SP",
@@ -206,7 +206,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Power BI Data Analyst Associate"
         ],
         "idiomas": [
             {
@@ -222,7 +222,7 @@
     {
         "id": 5,
         "nome": "Thiago Ferreira",
-        "foto": "./images/foto5.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em design.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -261,7 +261,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Digital Marketing Specialist Certification"
         ],
         "idiomas": [
             {
@@ -277,7 +277,7 @@
     {
         "id": 6,
         "nome": "Ana Albuquerque",
-        "foto": "./images/foto6.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em design.",
         "localizacao": "Salvador/BA",
@@ -316,7 +316,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Brand Management Certification"
         ],
         "idiomas": [
             {
@@ -332,7 +332,7 @@
     {
         "id": 7,
         "nome": "Ana Ribeiro",
-        "foto": "./images/foto7.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em educação.",
         "localizacao": "Curitiba/PR",
@@ -371,7 +371,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Front-End Libraries Certification"
         ],
         "idiomas": [
             {
@@ -387,7 +387,7 @@
     {
         "id": 8,
         "nome": "Ana Albuquerque",
-        "foto": "./images/foto8.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "Desenvolvedor Back-end",
         "resumo": "Profissional atuante em educação.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -426,7 +426,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Back-End Development and APIs Certification"
         ],
         "idiomas": [
             {
@@ -442,7 +442,7 @@
     {
         "id": 9,
         "nome": "Beatriz Barbosa",
-        "foto": "./images/foto9.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Belo Horizonte/MG",
@@ -481,7 +481,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified DevOps Engineer – Professional"
         ],
         "idiomas": [
             {
@@ -497,7 +497,7 @@
     {
         "id": 10,
         "nome": "João Santos",
-        "foto": "./images/foto10.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
         "cargo": "Cientista de Dados",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "Belo Horizonte/MG",
@@ -536,7 +536,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "IBM Data Science Professional Certificate"
         ],
         "idiomas": [
             {
@@ -5499,4 +5499,4 @@
             "Inovação"
         ]
     }
-]   
+]
