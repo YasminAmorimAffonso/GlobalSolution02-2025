@@ -193,9 +193,6 @@ input[type="checkbox"]:checked::after {
     background-size: cover;
     background-repeat: no-repeat;
 
-    /* margin-bottom: -225px; */
-
-
     h1,
     p {
 
@@ -228,6 +225,8 @@ input[type="checkbox"]:checked::after {
         display: flex;
 
         justify-content: center;
+
+        align-items: start;
 
 
         h6 {
@@ -276,22 +275,23 @@ input[type="checkbox"]:checked::after {
 
         }
 
-    }
+        #buttonAplicarEscuro:hover {
 
+            cursor: pointer;
 
+            scale: 110%;
 
-    #buttonAplicar:hover {
+            transition: 0.3s;
 
-        cursor: pointer;
-
-        scale: 110%;
-
-        transition: 0.3s;
+        }
 
     }
-
 
 }
+
+
+
+
 
 @media (min-width: 768px) {
 
@@ -431,6 +431,8 @@ input[type="checkbox"]:checked::after {
 
         #secPerfis {
 
+            margin-top: -550px;
+
             h1 {
 
                 font-size: 30px;
@@ -461,7 +463,76 @@ input[type="checkbox"]:checked::after {
 
         #secPerfisEscura {
 
-            #secFiltrosEscura {}
+            margin-top: -550px;
+
+
+
+
+            h1 {
+
+                font-size: 30px;
+
+            }
+
+            p {
+
+                font-size: 18px;
+
+            }   
+        
+            h4 {
+        
+                font-size: 25px;
+        
+            }
+
+            #linhaUpSecFiltros {
+
+                width: 80%;
+
+                margin-left: 100px;
+
+            }
+    
+        
+        
+            #contentFiltrosEscuro-home {
+
+                width: 100%;
+        
+                background-size: cover;
+        
+                display: flex;
+        
+                justify-content: center;
+        
+                align-items: center;
+
+
+        
+        
+                h6 {
+        
+                    font-weight: bold;
+        
+                    font-size: 25px;
+        
+                }
+        
+                p {
+        
+                    font-size: 20px;
+        
+                }
+
+                div {
+
+                    margin-left: 25px;
+
+                }
+
+        
+            }        
 
         }
 
@@ -489,7 +560,7 @@ input[type="checkbox"]:checked::after {
 
         width: 1500px;
 
-        transform: translate(-300px, 200px);
+        transform: translate(-300px, -275px);
 
         z-index: 0;
 
@@ -626,6 +697,8 @@ input[type="checkbox"]:checked::after {
 
         #secPerfis {
 
+            margin-top: -1050px;
+
             h1 {
 
                 font-size: 40px;
@@ -687,7 +760,72 @@ input[type="checkbox"]:checked::after {
 
         #secPerfisEscura {
 
-            #secFiltrosEscura {}
+
+            margin-top: -1050px;
+
+            background-size: 120%;
+
+
+            h1 {
+
+                font-size: 40px;
+
+            }
+
+            >p {
+
+                font-size: 30px;
+
+            }
+
+            h4 {
+
+                font-size: 30px;
+
+            }
+
+            #linhaUpSecFiltros {
+
+                width: 90%;
+
+                margin-left: 75px;
+
+            }
+    
+        
+        
+            #contentFiltrosEscuro-home {
+
+                div {
+
+                    margin-left: 50px;
+
+                    div {
+
+                        display: flex;
+
+                        align-items: baseline;
+
+                        height: 100%;
+
+                        p {
+
+                            font-size: 25px;
+
+                        }
+
+                    }
+
+                }
+
+                #buttonAplicarEscuro {
+
+                    margin-right: 50px;
+
+                }
+        
+            }        
+
 
         }
 

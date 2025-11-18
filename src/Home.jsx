@@ -29,6 +29,12 @@ export default function Home() {
   const [colorButton, setColorButton] = useState("buttonAplicar");
   const [colorCard, setColorCard] = useState("card");
   const [filtrosAberto, setFiltrosAberto] = useState(false);
+  const [filtroAreas, setFiltroAreas] = useState([]);
+  const [filtroTecnologias, setFiltroTecnologias] = useState([]);
+  const [filtroCidades, setFiltroCidades] = useState([]);
+  const [perfisFiltrados, setPerfisFiltrados] = useState(perfis);
+  const [loading, setLoading] = useState(true);
+
 
 
   const areas = [...new Set(perfis.map(p => p.area))];
@@ -106,13 +112,12 @@ export default function Home() {
 
     window.addEventListener("activeChange", updateActive);
 
+
+    setTimeout(() => setLoading(false), 1500);
+
     return () => {
-
       window.removeEventListener("activeChange", updateActive);
-
-
     };
-
 
 
   }, []);
@@ -133,10 +138,88 @@ export default function Home() {
   }
 
 
+  function toggleFiltro(valor, filtro, setFiltro) {
+
+    if (filtro.includes(valor)) {
+
+      setFiltro(filtro.filter(v => v !== valor));
+
+    }
+
+    else {
+
+      setFiltro([...filtro, valor]);
+
+    }
+
+
+  }
+
+
+  function handleAplicarFiltros() {
+
+    setLoading(true);
+  
+    setTimeout(() => {
+  
+      let filtrados = perfis;
+  
+      if (filtroAreas.length > 0) {
+        filtrados = filtrados.filter(p => filtroAreas.includes(p.area));
+      }
+  
+      if (filtroTecnologias.length > 0) {
+        filtrados = filtrados.filter(p =>
+          p.habilidadesTecnicas.some(h => filtroTecnologias.includes(h))
+        );
+      }
+  
+      if (filtroCidades.length > 0) {
+        filtrados = filtrados.filter(p => filtroCidades.includes(p.localizacao));
+      }
+  
+      setPerfisFiltrados(filtrados);
+  
+
+      setLoading(false);
+  
+    }, 1200);
+  }
+  
+
+
+  function LoadingScreen({ active }) {
+    return (
+      <div
+        className={`fixed top-0 left-0 w-full h-full flex flex-col justify-center items-center transition-all duration-500 z-[9999]
+        ${active ? "bg-[#0c1117]" : "bg-[#e6e6e6]"}
+        `}
+      >
+        <p
+          className={`font-[cyrovoid] text-[28px] mb-6 tracking-wider 
+          ${active ? "text-[#cce7dd]" : "text-[#22333b]"}`}
+        >
+          Carregando...
+        </p>
+
+        {/* Spinner */}
+        <div className="animate-spin rounded-full h-14 w-14 border-[3px]"
+          style={{
+            borderColor: active ? "#1affc6" : "#5b6f73",
+            borderTopColor: "transparent",
+          }}
+        ></div>
+      </div>
+    );
+  }
+
 
   return (
 
-    <div className="overflow-x-hidden">
+    <div className='overflow-x-hidden'>
+
+      {loading && <LoadingScreen active={active} />}
+
 
       <Header secHero={idSecHero} secMiddle={secMiddle} secPerfis={secPerfis} />
 
@@ -144,9 +227,9 @@ export default function Home() {
 
       <img id='forma1' src="/assets/imgs/Forma1.svg" alt="" className='w-[1000px] translate-y-[450px] translate-x-[150px]' />
 
-      <div id='content-home' className='h-full flex flex-col overflow-x-hidden -mt-[425px]'>
+      <div id='content-home' className='h-full flex flex-col -mt-[425px]'>
 
-        <div id={idSecHero} className='w-full h-screen bg-cover bg-center flex justify-center items-center flex-col overflow-hidden'>
+        <div id={idSecHero} className='w-full h-screen bg-cover bg-center flex justify-center items-center flex-col overflow-hidden pb-5'>
 
 
           <img id='imgSecHero' src={imgHero} alt="" className='mt-50 w-120 z-1 pt-60 p-1' />
@@ -162,7 +245,7 @@ export default function Home() {
 
         </div>
 
-        <div id={secMiddle} className='h-1/2 bg-cover bg-center flex flex-row items-center pt-20 pb-20 p-5 overflow-hidden'>
+        <div id={secMiddle} className='h-1/2 bg-cover bg-center flex flex-row items-center pt-20 pb-20 p-5'>
 
           <div className=' z-2'>
 
@@ -173,13 +256,13 @@ export default function Home() {
 
           </div>
 
-          <img src="/assets/imgs/vectorLaptop.svg" alt="" className='relative w-60 mt-10' />
+          <img src="/assets/imgs/vectorLaptop.svg" alt="" className='w-60 mt-10 z-1' />
 
         </div>
 
-        <img id='forma2' src="/assets/imgs/Forma2.svg" alt="Forma 2" className='absolute w-[1000px] translate-y-[1100px] translate-x-[-75px] z-0' />
+        <img id='forma2' src="/assets/imgs/Forma2.svg" alt="Forma 2" className='w-[1000px] -translate-x-20 -translate-y-[250px] z-0' />
 
-        <div id={secPerfis} className='h-[1500px] -mb-[150px] flex flex-col items-center pt-[75px]'>
+        <div id={secPerfis} className='h-[1500px] -mb-[40px] flex flex-col items-center pt-[75px] -mt-[350px]'>
 
 
           <h1 className='font-[cyrovoid] z-1'>Explore Talentos e Conexões</h1>
@@ -206,7 +289,7 @@ export default function Home() {
 
               <div className='w-screen flex flex-row flex-wrap justify-center items-center mt-10'>
 
-                <div className='flex flex-wrap flex-col justify-around items-start h-50 w-[365px] mb-10'>
+                <div className='flex flex-wrap flex-col justify-around items-start h-50 w-[360px] mb-10 -mr-12'>
 
                   <h6 className='mb-3'>Área</h6>
 
@@ -214,7 +297,7 @@ export default function Home() {
 
                     <div className='flex flex-wrap items-center'>
 
-                      <input type="checkbox" name="" idA={a} />
+                      <input type="checkbox" name="" key={a} onChange={() => toggleFiltro(a, filtroAreas, setFiltroAreas)} checked={filtroAreas.includes(a)} />
 
                       <p className='ml-2'>{a}</p>
 
@@ -234,7 +317,7 @@ export default function Home() {
 
                     <div className='flex flex-wrap items-center'>
 
-                      <input type="checkbox" name="" idT={t} />
+                      <input type="checkbox" name="" key={t} onChange={() => toggleFiltro(t, filtroTecnologias, setFiltroTecnologias)} checked={filtroTecnologias.includes(t)} />
 
                       <p className='ml-2'>{t}</p>
 
@@ -244,7 +327,7 @@ export default function Home() {
 
                 </div>
 
-                <div className='flex flex-wrap flex-col justify-around items-start h-43 w-[323px] mb-10'>
+                <div className='flex flex-wrap flex-col justify-around items-start h-43 w-[323px] mb-10 -mr-3.5'>
 
                   <h6 className='mb-3'>Cidade</h6>
 
@@ -252,7 +335,7 @@ export default function Home() {
 
                     <div className='flex flex-wrap items-center'>
 
-                      <input type="checkbox" name="" idC={c} />
+                      <input type="checkbox" name="" key={c} onChange={() => toggleFiltro(c, filtroCidades, setFiltroCidades)} checked={filtroCidades.includes(c)} />
 
                       <p className='ml-2 w-[50px]'>{c}</p>
 
@@ -264,7 +347,7 @@ export default function Home() {
 
               </div>
 
-              <button id={colorButton} className='font-[neubau] p-5 mb-10 text-[20px]'>Aplicar</button>
+              <button id={colorButton} onClick={handleAplicarFiltros} className='font-[neubau] p-5 mb-10 text-[20px]'>Aplicar</button>
 
 
               <img id="linhaDownSecFiltros" src={linhaDownSecFiltros} alt="" className='-mb-[25px]' />
@@ -276,19 +359,27 @@ export default function Home() {
 
           {/* <Modal colorCard={colorCard}/> */}
 
-          {/* {perfis.map((p) => (
+          <div className='overflow-y-scroll m-20 h-[500px] z-1'>
 
-            <div id={colorCard} idPerfil={p.id}>
+            {perfisFiltrados.map((p) => (
 
-              <h1>{p.nome}</h1>
+              <div id={colorCard} idPerfil={p.id}>
 
-              {p.habilidadesTecnicas.map((h) => (
-                <p>{h}</p>
-              ))}
+                <img src={p.foto} alt="" />
 
-            </div>
+                <h1>{p.nome}</h1>
 
-          ))} */}
+                <h3>{p.}</h3>
+
+                {p.habilidadesTecnicas.map((h) => (
+                  <p>{h}</p>
+                ))}
+
+              </div>
+
+            ))}
+
+          </div>
 
         </div>
 

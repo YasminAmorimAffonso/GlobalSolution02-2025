@@ -84,7 +84,7 @@
         "formacao": [
             {
                 "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
+                "instituicao":"Universidade Y",
                 "ano": "2020"
             }
         ],
