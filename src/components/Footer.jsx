@@ -9,7 +9,7 @@ export default function Footer({secHero, secMiddle, secPerfis}) {
 
     return (
 
-        <div id="content-footer" className="p-5 flex flex-col pt-25 pb-25 md:flex-row">
+        <div id="content-footer" className="p-5 flex flex-col pb-25 pt-25 md:flex-row">
 
             <div className="flex flex-col justify-around items-center md:items-baseline">
 

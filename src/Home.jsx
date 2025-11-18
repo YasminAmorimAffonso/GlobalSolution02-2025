@@ -369,11 +369,14 @@ export default function Home() {
 
                 <h1>{p.nome}</h1>
 
-                <h3>{p.}</h3>
+                <h3>{p.areaInteresses}</h3>
 
+                <p>{p.localizacao}</p>
+
+{/* 
                 {p.habilidadesTecnicas.map((h) => (
                   <p>{h}</p>
-                ))}
+                ))} */}
 
               </div>
 
