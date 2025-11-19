@@ -6,10 +6,11 @@ import { useState } from "react";
 export default function Header({ secHero, secMiddle, secPerfis }) {
 
     const [menuOpen, setMenuOpen] = useState(false);
+    
 
     return (
 
-        <div id="content-header" className="fixed z-10 top-0 left-0 w-full bg-[#00000099] pt-5 pb-5 pl-2 flex flex-row justify-around items-center h-[125px] lg:z-50">
+        <div id="content-header" className="fixed z-50 top-0 left-0 w-full bg-[#00000099] pt-5 pb-5 pl-2 flex flex-row justify-around items-center h-[125px] lg:z-50">
 
             <img src="/assets/imgs/Logo.svg" alt="Logo" className="w-35 md:w-45 lg:w-65" />
 
@@ -25,7 +26,7 @@ export default function Header({ secHero, secMiddle, secPerfis }) {
             </div>
 
 
-            <button className="md:hidden flex flex-col justify-between w-8 h-6 hover:scale-110 cursor-pointer transition-transform" onClick={() => setMenuOpen(!menuOpen)} aria-label="Abrir menu">
+            <button className="md:hidden flex flex-col justify-between w-8 h-6 hover:scale-110 cursor-pointer transition-transform" onClick={() => { setMenuOpen(!menuOpen)}} aria-label="Abrir menu">
 
                 <div className=" h-1 w-full bg-white rounded"></div>
 
