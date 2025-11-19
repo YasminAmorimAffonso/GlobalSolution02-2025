@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 
-export default function Header({secHero, secMiddle, secPerfis}) {
+export default function Header({ secHero, secMiddle, secPerfis }) {
 
     const [menuOpen, setMenuOpen] = useState(false);
 
@@ -25,7 +25,7 @@ export default function Header({secHero, secMiddle, secPerfis}) {
             </div>
 
 
-            <button className="md:hidden flex flex-col justify-between w-8 h-6 cursor-pointer hover:scale-110 transition-transform" onClick={() => setMenuOpen(!menuOpen)}aria-label="Abrir menu">
+            <button className="md:hidden flex flex-col justify-between w-8 h-6 hover:scale-110 cursor-pointer transition-transform" onClick={() => setMenuOpen(!menuOpen)} aria-label="Abrir menu">
 
                 <div className=" h-1 w-full bg-white rounded"></div>
 
@@ -37,9 +37,9 @@ export default function Header({secHero, secMiddle, secPerfis}) {
 
 
             {menuOpen && (
-            
-            <div className="absolute top-[125px] left-0 w-full bg-[#000000cc] flex flex-col items-center space-y-4 py-6 md:hidden">
-                    
+
+                <div className="absolute top-[125px] left-0 w-full bg-[#000000cc] flex flex-col items-center space-y-4 py-6 md:hidden">
+
                     <a href={`#${secHero}`} className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Seja bem-vindo(a)</a>
 
                     <a href={`#${secMiddle}`} className="font-[neubau] text-[#E6F1FF] text-[25px] hover:scale-110 transition-transform" onClick={() => setMenuOpen(false)}>Conectando o Futuro do Trabalho</a>
