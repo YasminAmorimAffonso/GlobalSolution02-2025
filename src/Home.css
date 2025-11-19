@@ -131,7 +131,11 @@ input[type="checkbox"]:checked::after {
 
     }
 
+    #notFound {
 
+        color: #E6F1FF;
+
+    }
 
     #contentFiltros-home {
 
@@ -216,6 +220,11 @@ input[type="checkbox"]:checked::after {
 
     }
 
+    #notFound {
+
+        color: #E6F1FF;
+
+    }
 
     #contentFiltrosEscuro-home {
 
@@ -718,6 +727,14 @@ input[type="checkbox"]:checked::after {
 
             }
 
+            #notFound {
+
+                font-size: 35px;
+
+                color: #1C2D43;
+        
+            }
+
             #secFiltros {
 
 
@@ -784,6 +801,13 @@ input[type="checkbox"]:checked::after {
                 font-size: 30px;
 
             }
+
+            #notFound {
+
+                font-size: 35px;
+        
+            }
+
 
             #linhaUpSecFiltros {
 

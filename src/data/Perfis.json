@@ -551,29 +551,29 @@
     },
     {
         "id": 11,
-        "nome": "Lucas Rocha",
-        "foto": "./images/foto11.jpg",
-        "cargo": "Desenvolvedor Back-end",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Campinas/SP",
-        "area": "Saúde",
+        "nome": "Clara Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Engenharia",
         "habilidadesTecnicas": [
-            "Python",
             "CSS",
+            "HTML",
             "JavaScript",
-            "Docker"
+            "SQL"
         ],
         "softSkills": [
-            "Organização",
-            "Liderança"
+            "Comunicação",
+            "Organização"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Desenvolvedor Back-end",
+                "cargo": "Desenvolvedor Mobile",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
+                "descricao": "Atuação em projetos de engenharia."
             }
         ],
         "formacao": [
@@ -591,7 +591,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Android Developer Certification"
         ],
         "idiomas": [
             {
@@ -606,29 +606,29 @@
     },
     {
         "id": 12,
-        "nome": "Clara Ribeiro",
-        "foto": "./images/foto12.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em ti.",
-        "localizacao": "Campinas/SP",
-        "area": "TI",
+        "nome": "Carlos Lima",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Recife/PE",
+        "area": "Engenharia",
         "habilidadesTecnicas": [
             "SQL",
-            "Docker",
             "HTML",
+            "CSS",
             "JavaScript"
         ],
         "softSkills": [
-            "Criatividade",
-            "Liderança"
+            "Liderança",
+            "Raciocínio lógico"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "QA Analyst",
+                "cargo": "Desenvolvedor Back-end",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de ti."
+                "descricao": "Atuação em projetos de engenharia."
             }
         ],
         "formacao": [
@@ -646,7 +646,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Oracle Certified Professional, Java SE Developer"
         ],
         "idiomas": [
             {
@@ -661,29 +661,29 @@
     },
     {
         "id": 13,
-        "nome": "Lucas Mendes",
-        "foto": "./images/foto13.jpg",
-        "cargo": "Designer UX/UI",
-        "resumo": "Profissional atuante em ti.",
-        "localizacao": "Campinas/SP",
-        "area": "TI",
+        "nome": "Sofia Silva",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Tecnologia",
         "habilidadesTecnicas": [
-            "Figma",
-            "HTML",
             "Node.js",
-            "SQL"
+            "HTML",
+            "CSS",
+            "React"
         ],
         "softSkills": [
-            "Colaboração",
-            "Organização"
+            "Criatividade",
+            "Comunicação"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
+                "cargo": "Desenvolvedor Front-end",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de ti."
+                "descricao": "Atuação em projetos de tecnologia."
             }
         ],
         "formacao": [
@@ -701,7 +701,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "React Developer Certification"
         ],
         "idiomas": [
             {
@@ -716,29 +716,29 @@
     },
     {
         "id": 14,
-        "nome": "Mariana Ferreira",
-        "foto": "./images/foto14.jpg",
-        "cargo": "Designer UX/UI",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Campinas/SP",
-        "area": "Saúde",
+        "nome": "Pedro Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Recife/PE",
+        "area": "Engenharia",
         "habilidadesTecnicas": [
-            "HTML",
+            "Figma",
             "SQL",
-            "CSS",
-            "JavaScript"
+            "Python",
+            "Power BI"
         ],
         "softSkills": [
-            "Organização",
-            "Raciocínio lógico"
+            "Empatia",
+            "Organização"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
+                "cargo": "Analista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
+                "descricao": "Atuação em projetos de engenharia."
             }
         ],
         "formacao": [
@@ -756,7 +756,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Data Analyst Associate"
         ],
         "idiomas": [
             {
@@ -771,29 +771,29 @@
     },
     {
         "id": 15,
-        "nome": "Clara Oliveira",
-        "foto": "./images/foto15.jpg",
-        "cargo": "Analista de Dados",
-        "resumo": "Profissional atuante em desenvolvimento.",
-        "localizacao": "Belo Horizonte/MG",
-        "area": "Desenvolvimento",
+        "nome": "Clara Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Educação",
         "habilidadesTecnicas": [
             "HTML",
-            "SQL",
-            "Power BI",
-            "Node.js"
+            "React",
+            "CSS",
+            "SQL"
         ],
         "softSkills": [
-            "Raciocínio lógico",
-            "Empatia"
+            "Liderança",
+            "Criatividade"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Analista de Dados",
+                "cargo": "Desenvolvedor Front-end",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de desenvolvimento."
+                "descricao": "Atuação em projetos de educação."
             }
         ],
         "formacao": [
@@ -811,7 +811,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Front-End Developer Nanodegree"
         ],
         "idiomas": [
             {
@@ -826,29 +826,29 @@
     },
     {
         "id": 16,
-        "nome": "Rafaela Barbosa",
-        "foto": "./images/foto16.jpg",
-        "cargo": "Product Owner",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Belo Horizonte/MG",
-        "area": "Saúde",
+        "nome": "Thiago Pereira",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Desenvolvimento",
         "habilidadesTecnicas": [
-            "React",
+            "Python",
             "SQL",
-            "Power BI",
-            "Figma"
+            "Docker",
+            "Power BI"
         ],
         "softSkills": [
-            "Criatividade",
-            "Empatia"
+            "Comunicação",
+            "Raciocínio lógico"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Product Owner",
+                "cargo": "Cientista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
+                "descricao": "Atuação em projetos de desenvolvimento."
             }
         ],
         "formacao": [
@@ -866,7 +866,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "TensorFlow Developer Certificate"
         ],
         "idiomas": [
             {
@@ -881,29 +881,29 @@
     },
     {
         "id": 17,
-        "nome": "Pedro Ferreira",
-        "foto": "./images/foto17.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em ti.",
-        "localizacao": "Curitiba/PR",
-        "area": "TI",
+        "nome": "Clara Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Desenvolvimento",
         "habilidadesTecnicas": [
-            "Docker",
-            "Python",
-            "SQL",
-            "JavaScript"
+            "Power BI",
+            "HTML",
+            "React",
+            "Figma"
         ],
         "softSkills": [
-            "Organização",
-            "Empatia"
+            "Criatividade",
+            "Liderança"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "QA Analyst",
+                "cargo": "Analista de Marketing",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de ti."
+                "descricao": "Atuação em projetos de desenvolvimento."
             }
         ],
         "formacao": [
@@ -921,7 +921,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Digital Marketing Strategy Certificate"
         ],
         "idiomas": [
             {
@@ -936,29 +936,29 @@
     },
     {
         "id": 18,
-        "nome": "Rafaela Martins",
-        "foto": "./images/foto18.jpg",
-        "cargo": "Analista de Dados",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "São Paulo/SP",
-        "area": "Design",
+        "nome": "Maria Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Goiânia/GO",
+        "area": "Finanças",
         "habilidadesTecnicas": [
+            "Figma",
+            "Docker",
             "HTML",
-            "Python",
-            "React",
-            "Figma"
+            "Node.js"
         ],
         "softSkills": [
             "Organização",
-            "Raciocínio lógico"
+            "Empatia"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Analista de Dados",
+                "cargo": "Desenvolvedor Mobile",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
+                "descricao": "Atuação em projetos de finanças."
             }
         ],
         "formacao": [
@@ -976,7 +976,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "iOS App Development Certification"
         ],
         "idiomas": [
             {
@@ -991,29 +991,29 @@
     },
     {
         "id": 19,
-        "nome": "Pedro Rocha",
-        "foto": "./images/foto19.jpg",
-        "cargo": "Analista de Dados",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "São Paulo/SP",
-        "area": "Saúde",
+        "nome": "Maria Barbosa",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em engenharia.",
+        "localizacao": "Salvador/BA",
+        "area": "Engenharia",
         "habilidadesTecnicas": [
             "JavaScript",
-            "HTML",
-            "Node.js",
-            "Figma"
+            "CSS",
+            "Power BI",
+            "Docker"
         ],
         "softSkills": [
-            "Liderança",
-            "Colaboração"
+            "Comunicação",
+            "Criatividade"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Analista de Dados",
+                "cargo": "Analista de Marketing",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
+                "descricao": "Atuação em projetos de engenharia."
             }
         ],
         "formacao": [
@@ -1031,7 +1031,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Content Marketing Certification"
         ],
         "idiomas": [
             {
@@ -1046,29 +1046,29 @@
     },
     {
         "id": 20,
-        "nome": "Rafaela Santos",
-        "foto": "./images/foto20.jpg",
-        "cargo": "Designer UX/UI",
-        "resumo": "Profissional atuante em ti.",
-        "localizacao": "Curitiba/PR",
-        "area": "TI",
+        "nome": "João Mendes",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Manaus/AM",
+        "area": "Educação",
         "habilidadesTecnicas": [
+            "Docker",
+            "Figma",
             "Power BI",
-            "Node.js",
-            "HTML",
-            "React"
+            "JavaScript"
         ],
         "softSkills": [
-            "Criatividade",
-            "Organização"
+            "Colaboração",
+            "Liderança"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
+                "cargo": "DevOps Engineer",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de ti."
+                "descricao": "Atuação em projetos de educação."
             }
         ],
         "formacao": [
@@ -1086,7 +1086,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified SysOps Administrator"
         ],
         "idiomas": [
             {
@@ -1101,26 +1101,26 @@
     },
     {
         "id": 21,
-        "nome": "Clara Oliveira",
-        "foto": "./images/foto21.jpg",
-        "cargo": "Desenvolvedor Front-end",
+        "nome": "Carlos Lima",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
+        "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em educação.",
-        "localizacao": "São Paulo/SP",
+        "localizacao": "Rio de Janeiro/RJ",
         "area": "Educação",
         "habilidadesTecnicas": [
+            "Python",
+            "Power BI",
             "CSS",
-            "Docker",
-            "SQL",
-            "Python"
+            "HTML"
         ],
         "softSkills": [
-            "Empatia",
-            "Liderança"
+            "Raciocínio lógico",
+            "Colaboração"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Desenvolvedor Front-end",
+                "cargo": "Analista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
                 "descricao": "Atuação em projetos de educação."
@@ -1141,7 +1141,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "IBM Data Analyst Professional Certificate"
         ],
         "idiomas": [
             {
@@ -1156,29 +1156,29 @@
     },
     {
         "id": 22,
-        "nome": "Mariana Rocha",
-        "foto": "./images/foto22.jpg",
-        "cargo": "DevOps Engineer",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "Saúde",
+        "nome": "Sofia Almeida",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Desenvolvimento",
         "habilidadesTecnicas": [
-            "Python",
-            "CSS",
             "SQL",
-            "Docker"
+            "CSS",
+            "Node.js",
+            "JavaScript"
         ],
         "softSkills": [
-            "Organização",
-            "Colaboração"
+            "Comunicação",
+            "Organização"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "DevOps Engineer",
+                "cargo": "Cientista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
+                "descricao": "Atuação em projetos de desenvolvimento."
             }
         ],
         "formacao": [
@@ -1196,7 +1196,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Advanced Data Analytics Certificate"
         ],
         "idiomas": [
             {
@@ -1211,29 +1211,29 @@
     },
     {
         "id": 23,
-        "nome": "Mariana Albuquerque",
-        "foto": "./images/foto23.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "Engenharia",
+        "nome": "Lucas Pereira",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Marketing",
         "habilidadesTecnicas": [
-            "Figma",
-            "HTML",
+            "Docker",
             "Power BI",
-            "CSS"
+            "Node.js",
+            "HTML"
         ],
         "softSkills": [
-            "Comunicação",
-            "Empatia"
+            "Liderança",
+            "Criatividade"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "QA Analyst",
+                "cargo": "Analista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
+                "descricao": "Atuação em projetos de marketing."
             }
         ],
         "formacao": [
@@ -1251,7 +1251,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Power BI Analyst Certificate"
         ],
         "idiomas": [
             {
@@ -1266,21 +1266,956 @@
     },
     {
         "id": 24,
-        "nome": "Rafaela Ferreira",
-        "foto": "./images/foto24.jpg",
+        "nome": "Beatriz Mendonça",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "São Paulo/SP",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Python",
+            "Figma",
+            "Node.js",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de tecnologia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user24",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "AWS Certified Machine Learning – Specialty"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 25,
+        "nome": "Lucas Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Node.js",
+            "Docker",
+            "SQL"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Mobile",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de tecnologia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user25",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Kotlin Android Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 26,
+        "nome": "Lucas Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "HTML",
+            "React",
+            "Docker",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user26",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Responsive Web Design Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 27,
+        "nome": "Carlos Barbosa",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "DevOps Engineer",
-        "resumo": "Profissional atuante em marketing.",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "SQL",
+            "React",
+            "Power BI",
+            "Python"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user27",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Google Cloud Professional DevOps Engineer"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "Pedro Lima",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Manaus/AM",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "JavaScript",
+            "SQL",
+            "Docker"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user28",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Node.js Back-End Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 29,
+        "nome": "Marcos Silva",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Node.js",
+            "Python",
+            "CSS"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Mobile",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user29",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Flutter Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 30,
+        "nome": "Sofia Nogueira",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Python",
+            "Docker",
+            "Power BI"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de finanças."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user30",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Tableau Data Analyst Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 31,
+        "nome": "Isabela Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em design.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
+            "React",
+            "JavaScript"
+        ],
+        "softSkills": [
+            "Organização",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de design."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user31",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Google Data Analytics Certificate"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 32,
+        "nome": "Marcos Almeida",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "Curitiba/PR",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Python",
+            "CSS",
+            "HTML",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Front-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de tecnologia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user32",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Front-End Development with React Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 33,
+        "nome": "João Mendes",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Manaus/AM",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
+            "SQL",
+            "Docker"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Raciocínio lógico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user33",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Back-End Development with Node.js Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 34,
+        "nome": "Bruna Lima",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em educação.",
         "localizacao": "Salvador/BA",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "Docker",
+            "SQL",
+            "React"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Liderança"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "DevOps Engineer",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user34",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "AWS Certified DevOps Engineer – Associate"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 35,
+        "nome": "Carlos Mendes",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "São Paulo/SP",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "HTML",
+            "JavaScript",
+            "SQL",
+            "Figma"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Cientista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user35",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Google Data Science Certificate"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 36,
+        "nome": "Carlos Silva",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "JavaScript",
+            "React",
+            "Python",
+            "CSS"
+        ],
+        "softSkills": [
+            "Organização",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Mobile",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user36",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Android Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 37,
+        "nome": "Carlos Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Recife/PE",
         "area": "Marketing",
         "habilidadesTecnicas": [
-            "React",
             "CSS",
+            "Docker",
+            "React",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Empatia"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de marketing."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user37",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Back-End API Development Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 38,
+        "nome": "Carlos Lima",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Desenvolvedor Back-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "São Paulo/SP",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Python",
+            "Docker",
+            "HTML",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Desenvolvedor Back-end",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de saúde."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user38",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Professional Backend Developer Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 39,
+        "nome": "Lucas Barbosa",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "React",
+            "Figma",
+            "SQL",
+            "Node.js"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de tecnologia."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user39",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Big Data Analytics Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 40,
+        "nome": "Beatriz Costa",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Goiânia/GO",
+        "area": "Educação",
+        "habilidadesTecnicas": [
+            "CSS",
+            "React",
+            "Python",
+            "Docker"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Colaboração"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Marketing",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user40",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Digital Marketing Fundamentals Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 41,
+        "nome": "Lucas Mendes",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
+        "cargo": "DevOps Engineer",
+        "resumo": "Profissional atuante em marketing.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "CSS",
+            "Node.js",
             "Power BI",
             "JavaScript"
         ],
         "softSkills": [
-            "Colaboração",
-            "Comunicação"
+            "Comunicação",
+            "Organização"
         ],
         "experiencias": [
             {
@@ -1301,12 +2236,12 @@
         "projetos": [
             {
                 "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user24",
+                "link": "https://github.com/user41",
                 "descricao": "Projeto acadêmico/profissional."
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Cloud Practitioner"
         ],
         "idiomas": [
             {
@@ -1320,30 +2255,30 @@
         ]
     },
     {
-        "id": 25,
-        "nome": "Pedro Santos",
-        "foto": "./images/foto25.jpg",
-        "cargo": "DevOps Engineer",
-        "resumo": "Profissional atuante em desenvolvimento.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "Desenvolvimento",
+        "id": 42,
+        "nome": "Marcos Lima",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
+        "cargo": "Cientista de Dados",
+        "resumo": "Profissional atuante em finanças.",
+        "localizacao": "São Paulo/SP",
+        "area": "Finanças",
         "habilidadesTecnicas": [
-            "Python",
+            "React",
             "HTML",
-            "SQL",
-            "Node.js"
+            "Python",
+            "CSS"
         ],
         "softSkills": [
-            "Organização",
-            "Raciocínio lógico"
+            "Empatia",
+            "Liderança"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "DevOps Engineer",
+                "cargo": "Cientista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de desenvolvimento."
+                "descricao": "Atuação em projetos de finanças."
             }
         ],
         "formacao": [
@@ -1356,12 +2291,12 @@
         "projetos": [
             {
                 "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user25",
+                "link": "https://github.com/user42",
                 "descricao": "Projeto acadêmico/profissional."
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "IBM Machine Learning Professional Certificate"
         ],
         "idiomas": [
             {
@@ -1375,27 +2310,82 @@
         ]
     },
     {
-        "id": 26,
-        "nome": "João Santos",
-        "foto": "./images/foto26.jpg",
-        "cargo": "Product Owner",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Salvador/BA",
-        "area": "Saúde",
+        "id": 43,
+        "nome": "Maria Souza",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Profissional atuante em educação.",
+        "localizacao": "Goiânia/GO",
+        "area": "Educação",
         "habilidadesTecnicas": [
-            "CSS",
-            "JavaScript",
-            "Power BI",
-            "SQL"
+            "Node.js",
+            "SQL",
+            "Figma",
+            "CSS"
         ],
         "softSkills": [
-            "Comunicação",
-            "Criatividade"
+            "Criatividade",
+            "Comunicação"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Product Owner",
+                "cargo": "Desenvolvedor Mobile",
+                "inicio": "2021-01",
+                "fim": "2023-12",
+                "descricao": "Atuação em projetos de educação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Tecnologia",
+                "instituicao": "Universidade Y",
+                "ano": "2020"
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Projeto Demonstrativo",
+                "link": "https://github.com/user43",
+                "descricao": "Projeto acadêmico/profissional."
+            }
+        ],
+        "certificacoes": [
+            "Android App Development Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Tecnologia",
+            "Inovação"
+        ]
+    },
+    {
+        "id": 44,
+        "nome": "Beatriz Carvalho",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "HTML",
+            "Power BI",
+            "JavaScript",
+            "React"
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Empresa X",
+                "cargo": "Analista de Dados",
                 "inicio": "2021-01",
                 "fim": "2023-12",
                 "descricao": "Atuação em projetos de saúde."
@@ -1411,12 +2401,12 @@
         "projetos": [
             {
                 "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user26",
+                "link": "https://github.com/user44",
                 "descricao": "Projeto acadêmico/profissional."
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Data Visualization with Tableau Certification"
         ],
         "idiomas": [
             {
@@ -1430,22 +2420,22 @@
         ]
     },
     {
-        "id": 27,
-        "nome": "Lucas Santos",
-        "foto": "./images/foto27.jpg",
+        "id": 45,
+        "nome": "João Silva",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em educação.",
-        "localizacao": "Salvador/BA",
+        "localizacao": "São Paulo/SP",
         "area": "Educação",
         "habilidadesTecnicas": [
-            "Figma",
-            "Docker",
-            "Power BI",
-            "JavaScript"
+            "JavaScript",
+            "HTML",
+            "Python",
+            "React"
         ],
         "softSkills": [
-            "Criatividade",
-            "Colaboração"
+            "Comunicação",
+            "Liderança"
         ],
         "experiencias": [
             {
@@ -1466,1002 +2456,12 @@
         "projetos": [
             {
                 "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user27",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 28,
-        "nome": "Sofia Ferreira",
-        "foto": "./images/foto28.jpg",
-        "cargo": "Designer UX/UI",
-        "resumo": "Profissional atuante em saúde.",
-        "localizacao": "Salvador/BA",
-        "area": "Saúde",
-        "habilidadesTecnicas": [
-            "Python",
-            "React",
-            "Power BI",
-            "CSS"
-        ],
-        "softSkills": [
-            "Empatia",
-            "Raciocínio lógico"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de saúde."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user28",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 29,
-        "nome": "João Albuquerque",
-        "foto": "./images/foto29.jpg",
-        "cargo": "Analista de Dados",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Belo Horizonte/MG",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "JavaScript",
-            "Figma",
-            "HTML",
-            "CSS"
-        ],
-        "softSkills": [
-            "Liderança",
-            "Raciocínio lógico"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Analista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user29",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 30,
-        "nome": "Beatriz Martins",
-        "foto": "./images/foto30.jpg",
-        "cargo": "Cientista de Dados",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Salvador/BA",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "Python",
-            "Power BI",
-            "CSS",
-            "React"
-        ],
-        "softSkills": [
-            "Liderança",
-            "Raciocínio lógico"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Cientista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user30",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 31,
-        "nome": "Sofia Albuquerque",
-        "foto": "./images/foto31.jpg",
-        "cargo": "Cientista de Dados",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "Salvador/BA",
-        "area": "Engenharia",
-        "habilidadesTecnicas": [
-            "JavaScript",
-            "Node.js",
-            "SQL",
-            "CSS"
-        ],
-        "softSkills": [
-            "Organização",
-            "Empatia"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Cientista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user31",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 32,
-        "nome": "Beatriz Santos",
-        "foto": "./images/foto32.jpg",
-        "cargo": "Desenvolvedor Front-end",
-        "resumo": "Profissional atuante em dados.",
-        "localizacao": "Salvador/BA",
-        "area": "Dados",
-        "habilidadesTecnicas": [
-            "Docker",
-            "HTML",
-            "Node.js",
-            "SQL"
-        ],
-        "softSkills": [
-            "Liderança",
-            "Comunicação"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Desenvolvedor Front-end",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de dados."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user32",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 33,
-        "nome": "Pedro Barbosa",
-        "foto": "./images/foto33.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em rh.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "RH",
-        "habilidadesTecnicas": [
-            "SQL",
-            "Figma",
-            "CSS",
-            "Node.js"
-        ],
-        "softSkills": [
-            "Comunicação",
-            "Organização"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "QA Analyst",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de rh."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user33",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 34,
-        "nome": "Mariana Barbosa",
-        "foto": "./images/foto34.jpg",
-        "cargo": "Analista de Marketing",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Campinas/SP",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "HTML",
-            "Power BI",
-            "Docker",
-            "Python"
-        ],
-        "softSkills": [
-            "Organização",
-            "Raciocínio lógico"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Analista de Marketing",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user34",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 35,
-        "nome": "João Silva",
-        "foto": "./images/foto35.jpg",
-        "cargo": "Analista de Marketing",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Curitiba/PR",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "CSS",
-            "Node.js",
-            "JavaScript",
-            "Figma"
-        ],
-        "softSkills": [
-            "Criatividade",
-            "Comunicação"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Analista de Marketing",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user35",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 36,
-        "nome": "Rafaela Ferreira",
-        "foto": "./images/foto36.jpg",
-        "cargo": "Designer UX/UI",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "São Paulo/SP",
-        "area": "Engenharia",
-        "habilidadesTecnicas": [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "SQL"
-        ],
-        "softSkills": [
-            "Comunicação",
-            "Organização"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user36",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 37,
-        "nome": "Mariana Albuquerque",
-        "foto": "./images/foto37.jpg",
-        "cargo": "Cientista de Dados",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Campinas/SP",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "JavaScript",
-            "React",
-            "HTML",
-            "CSS"
-        ],
-        "softSkills": [
-            "Organização",
-            "Colaboração"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Cientista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user37",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 38,
-        "nome": "Clara Silva",
-        "foto": "./images/foto38.jpg",
-        "cargo": "Product Owner",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Curitiba/PR",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "SQL",
-            "Power BI",
-            "CSS",
-            "Docker"
-        ],
-        "softSkills": [
-            "Comunicação",
-            "Colaboração"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Product Owner",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user38",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 39,
-        "nome": "Lucas Ribeiro",
-        "foto": "./images/foto39.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em desenvolvimento.",
-        "localizacao": "Curitiba/PR",
-        "area": "Desenvolvimento",
-        "habilidadesTecnicas": [
-            "HTML",
-            "Power BI",
-            "JavaScript",
-            "Python"
-        ],
-        "softSkills": [
-            "Raciocínio lógico",
-            "Organização"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "QA Analyst",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de desenvolvimento."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user39",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 40,
-        "nome": "Rafaela Oliveira",
-        "foto": "./images/foto40.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "Python",
-            "Node.js",
-            "Figma",
-            "JavaScript"
-        ],
-        "softSkills": [
-            "Raciocínio lógico",
-            "Colaboração"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "QA Analyst",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user40",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 41,
-        "nome": "Clara Albuquerque",
-        "foto": "./images/foto41.jpg",
-        "cargo": "QA Analyst",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Belo Horizonte/MG",
-        "area": "Design",
-        "habilidadesTecnicas": [
-            "HTML",
-            "CSS",
-            "Power BI",
-            "JavaScript"
-        ],
-        "softSkills": [
-            "Organização",
-            "Comunicação"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "QA Analyst",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user41",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 42,
-        "nome": "Rafaela Martins",
-        "foto": "./images/foto42.jpg",
-        "cargo": "Cientista de Dados",
-        "resumo": "Profissional atuante em rh.",
-        "localizacao": "Campinas/SP",
-        "area": "RH",
-        "habilidadesTecnicas": [
-            "Node.js",
-            "JavaScript",
-            "Power BI",
-            "Docker"
-        ],
-        "softSkills": [
-            "Liderança",
-            "Empatia"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Cientista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de rh."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user42",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 43,
-        "nome": "Clara Albuquerque",
-        "foto": "./images/foto43.jpg",
-        "cargo": "DevOps Engineer",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "Campinas/SP",
-        "area": "Engenharia",
-        "habilidadesTecnicas": [
-            "React",
-            "Node.js",
-            "Figma",
-            "Python"
-        ],
-        "softSkills": [
-            "Empatia",
-            "Liderança"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "DevOps Engineer",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user43",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 44,
-        "nome": "Pedro Ferreira",
-        "foto": "./images/foto44.jpg",
-        "cargo": "DevOps Engineer",
-        "resumo": "Profissional atuante em desenvolvimento.",
-        "localizacao": "Campinas/SP",
-        "area": "Desenvolvimento",
-        "habilidadesTecnicas": [
-            "Node.js",
-            "Docker",
-            "CSS",
-            "React"
-        ],
-        "softSkills": [
-            "Liderança",
-            "Colaboração"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "DevOps Engineer",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de desenvolvimento."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user44",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 45,
-        "nome": "Lucas Ferreira",
-        "foto": "./images/foto45.jpg",
-        "cargo": "Analista de Dados",
-        "resumo": "Profissional atuante em marketing.",
-        "localizacao": "Campinas/SP",
-        "area": "Marketing",
-        "habilidadesTecnicas": [
-            "Power BI",
-            "JavaScript",
-            "React",
-            "Python"
-        ],
-        "softSkills": [
-            "Raciocínio lógico",
-            "Comunicação"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Analista de Dados",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de marketing."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
                 "link": "https://github.com/user45",
                 "descricao": "Projeto acadêmico/profissional."
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Data Engineering Professional Certificate"
         ],
         "idiomas": [
             {
@@ -2476,29 +2476,29 @@
     },
     {
         "id": 46,
-        "nome": "Clara Mendes",
-        "foto": "./images/foto46.jpg",
-        "cargo": "Arquiteto de Software",
-        "resumo": "Profissional atuante em design.",
-        "localizacao": "Rio de Janeiro/RJ",
-        "area": "Design",
+        "nome": "Lucas Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
+        "cargo": "Analista de Marketing",
+        "resumo": "Profissional atuante em desenvolvimento.",
+        "localizacao": "Belo Horizonte/MG",
+        "area": "Desenvolvimento",
         "habilidadesTecnicas": [
+            "React",
             "Node.js",
-            "HTML",
-            "JavaScript",
-            "SQL"
+            "Power BI",
+            "CSS"
         ],
         "softSkills": [
-            "Raciocínio lógico",
-            "Colaboração"
+            "Criatividade",
+            "Empatia"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Arquiteto de Software",
+                "cargo": "Analista de Marketing",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de design."
+                "descricao": "Atuação em projetos de desenvolvimento."
             }
         ],
         "formacao": [
@@ -2516,7 +2516,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Digital Marketing Analytics Certification"
         ],
         "idiomas": [
             {
@@ -2531,26 +2531,26 @@
     },
     {
         "id": 47,
-        "nome": "Beatriz Ribeiro",
-        "foto": "./images/foto47.jpg",
-        "cargo": "Designer UX/UI",
+        "nome": "Pedro Mendes",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
+        "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em desenvolvimento.",
-        "localizacao": "São Paulo/SP",
+        "localizacao": "Recife/PE",
         "area": "Desenvolvimento",
         "habilidadesTecnicas": [
+            "Docker",
+            "Node.js",
             "CSS",
-            "JavaScript",
-            "React",
-            "HTML"
+            "SQL"
         ],
         "softSkills": [
-            "Criatividade",
-            "Comunicação"
+            "Organização",
+            "Raciocínio lógico"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Designer UX/UI",
+                "cargo": "DevOps Engineer",
                 "inicio": "2021-01",
                 "fim": "2023-12",
                 "descricao": "Atuação em projetos de desenvolvimento."
@@ -2571,7 +2571,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Cloud DevOps Professional Certification"
         ],
         "idiomas": [
             {
@@ -2586,29 +2586,29 @@
     },
     {
         "id": 48,
-        "nome": "Beatriz Mendes",
-        "foto": "./images/foto48.jpg",
-        "cargo": "Arquiteto de Software",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "Curitiba/PR",
-        "area": "Engenharia",
+        "nome": "Beatriz Ferreira",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em tecnologia.",
+        "localizacao": "Goiânia/GO",
+        "area": "Tecnologia",
         "habilidadesTecnicas": [
-            "JavaScript",
+            "SQL",
             "Node.js",
-            "Python",
-            "Figma"
+            "HTML",
+            "React"
         ],
         "softSkills": [
-            "Raciocínio lógico",
-            "Criatividade"
+            "Colaboração",
+            "Empatia"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Arquiteto de Software",
+                "cargo": "Desenvolvedor Front-end",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
+                "descricao": "Atuação em projetos de tecnologia."
             }
         ],
         "formacao": [
@@ -2626,7 +2626,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Certified Front-End Engineer"
         ],
         "idiomas": [
             {
@@ -2641,29 +2641,29 @@
     },
     {
         "id": 49,
-        "nome": "Sofia Silva",
-        "foto": "./images/foto49.jpg",
-        "cargo": "Desenvolvedor Back-end",
-        "resumo": "Profissional atuante em engenharia.",
-        "localizacao": "Curitiba/PR",
-        "area": "Engenharia",
+        "nome": "Maria Oliveira",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
+        "cargo": "Desenvolvedor Front-end",
+        "resumo": "Profissional atuante em saúde.",
+        "localizacao": "Goiânia/GO",
+        "area": "Saúde",
         "habilidadesTecnicas": [
+            "CSS",
+            "JavaScript",
             "HTML",
-            "Figma",
-            "Power BI",
-            "SQL"
+            "Python"
         ],
         "softSkills": [
-            "Liderança",
-            "Empatia"
+            "Criatividade",
+            "Organização"
         ],
         "experiencias": [
             {
                 "empresa": "Empresa X",
-                "cargo": "Desenvolvedor Back-end",
+                "cargo": "Desenvolvedor Front-end",
                 "inicio": "2021-01",
                 "fim": "2023-12",
-                "descricao": "Atuação em projetos de engenharia."
+                "descricao": "Atuação em projetos de saúde."
             }
         ],
         "formacao": [
@@ -2681,62 +2681,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
-        ],
-        "idiomas": [
-            {
-                "idioma": "Inglês",
-                "nivel": "Intermediário"
-            }
-        ],
-        "areaInteresses": [
-            "Tecnologia",
-            "Inovação"
-        ]
-    },
-    {
-        "id": 50,
-        "nome": "Sofia Barbosa",
-        "foto": "./images/foto50.jpg",
-        "cargo": "Desenvolvedor Back-end",
-        "resumo": "Profissional atuante em dados.",
-        "localizacao": "Curitiba/PR",
-        "area": "Dados",
-        "habilidadesTecnicas": [
-            "JavaScript",
-            "CSS",
-            "Power BI",
-            "HTML"
-        ],
-        "softSkills": [
-            "Comunicação",
-            "Empatia"
-        ],
-        "experiencias": [
-            {
-                "empresa": "Empresa X",
-                "cargo": "Desenvolvedor Back-end",
-                "inicio": "2021-01",
-                "fim": "2023-12",
-                "descricao": "Atuação em projetos de dados."
-            }
-        ],
-        "formacao": [
-            {
-                "curso": "Bacharelado em Tecnologia",
-                "instituicao": "Universidade Y",
-                "ano": "2020"
-            }
-        ],
-        "projetos": [
-            {
-                "titulo": "Projeto Demonstrativo",
-                "link": "https://github.com/user50",
-                "descricao": "Projeto acadêmico/profissional."
-            }
-        ],
-        "certificacoes": [
-            "Certificação Profissional"
+            "Front-End Web Development Certificate"
         ],
         "idiomas": [
             {
@@ -2752,7 +2697,7 @@
     {
         "id": 51,
         "nome": "Ana Oliveira",
-        "foto": "./images/foto51.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Cientista de Dados",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Salvador/BA",
@@ -2791,7 +2736,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Professional Data Engineer"
         ],
         "idiomas": [
             {
@@ -2807,7 +2752,7 @@
     {
         "id": 52,
         "nome": "Rafaela Ribeiro",
-        "foto": "./images/foto52.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "Salvador/BA",
@@ -2846,7 +2791,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Solutions Architect – Associate"
         ],
         "idiomas": [
             {
@@ -2862,7 +2807,7 @@
     {
         "id": 53,
         "nome": "Mariana Oliveira",
-        "foto": "./images/foto53.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Product Owner",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -2901,7 +2846,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Professional Scrum Product Owner I (PSPO I)"
         ],
         "idiomas": [
             {
@@ -2917,7 +2862,7 @@
     {
         "id": 54,
         "nome": "Rafaela Oliveira",
-        "foto": "./images/foto54.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Belo Horizonte/MG",
@@ -2956,7 +2901,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: DevOps Engineer Expert"
         ],
         "idiomas": [
             {
@@ -2972,7 +2917,7 @@
     {
         "id": 55,
         "nome": "Beatriz Oliveira",
-        "foto": "./images/foto55.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "Desenvolvedor Back-end",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -3011,7 +2956,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Oracle Certified Professional, Java SE Developer"
         ],
         "idiomas": [
             {
@@ -3027,7 +2972,7 @@
     {
         "id": 56,
         "nome": "Rafaela Martins",
-        "foto": "./images/foto56.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Campinas/SP",
@@ -3066,7 +3011,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Analytics Certification"
         ],
         "idiomas": [
             {
@@ -3082,7 +3027,7 @@
     {
         "id": 57,
         "nome": "Ana Martins",
-        "foto": "./images/foto57.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "São Paulo/SP",
@@ -3121,7 +3066,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester – Foundation Level"
         ],
         "idiomas": [
             {
@@ -3137,7 +3082,7 @@
     {
         "id": 58,
         "nome": "Sofia Santos",
-        "foto": "./images/foto58.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Salvador/BA",
@@ -3176,7 +3121,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: Power BI Data Analyst Associate"
         ],
         "idiomas": [
             {
@@ -3192,7 +3137,7 @@
     {
         "id": 59,
         "nome": "João Martins",
-        "foto": "./images/foto59.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Campinas/SP",
@@ -3231,7 +3176,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Data Analytics Professional Certificate"
         ],
         "idiomas": [
             {
@@ -3247,7 +3192,7 @@
     {
         "id": 60,
         "nome": "João Ferreira",
-        "foto": "./images/foto60.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -3286,7 +3231,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Solutions Architect – Professional"
         ],
         "idiomas": [
             {
@@ -3302,7 +3247,7 @@
     {
         "id": 61,
         "nome": "Thiago Santos",
-        "foto": "./images/foto61.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
         "cargo": "Desenvolvedor Back-end",
         "resumo": "Profissional atuante em marketing.",
         "localizacao": "Salvador/BA",
@@ -3341,7 +3286,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Oracle Certified Professional – Python Developer"
         ],
         "idiomas": [
             {
@@ -3357,7 +3302,7 @@
     {
         "id": 62,
         "nome": "Thiago Mendes",
-        "foto": "./images/foto62.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
         "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em design.",
         "localizacao": "São Paulo/SP",
@@ -3396,7 +3341,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Linux Foundation Certified DevOps Engineer"
         ],
         "idiomas": [
             {
@@ -3412,7 +3357,7 @@
     {
         "id": 63,
         "nome": "Mariana Rocha",
-        "foto": "./images/foto63.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Belo Horizonte/MG",
@@ -3451,7 +3396,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -3467,7 +3412,7 @@
     {
         "id": 64,
         "nome": "Mariana Martins",
-        "foto": "./images/foto64.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Campinas/SP",
@@ -3506,7 +3451,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Certified Software Quality Analyst (CSQA)"
         ],
         "idiomas": [
             {
@@ -3522,7 +3467,7 @@
     {
         "id": 65,
         "nome": "Ana Ribeiro",
-        "foto": "./images/foto65.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "São Paulo/SP",
@@ -3561,7 +3506,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Cloud Practitioner"
         ],
         "idiomas": [
             {
@@ -3577,7 +3522,7 @@
     {
         "id": 66,
         "nome": "Thiago Albuquerque",
-        "foto": "./images/foto66.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -3616,7 +3561,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Digital Marketing Certification"
         ],
         "idiomas": [
             {
@@ -3632,7 +3577,7 @@
     {
         "id": 67,
         "nome": "Lucas Rocha",
-        "foto": "./images/foto67.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em educação.",
         "localizacao": "São Paulo/SP",
@@ -3671,7 +3616,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "HubSpot Content Marketing Certification"
         ],
         "idiomas": [
             {
@@ -3687,7 +3632,7 @@
     {
         "id": 68,
         "nome": "Ana Martins",
-        "foto": "./images/foto68.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "São Paulo/SP",
@@ -3726,7 +3671,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Health Data Analyst Certification (HDAC)"
         ],
         "idiomas": [
             {
@@ -3742,7 +3687,7 @@
     {
         "id": 69,
         "nome": "Sofia Barbosa",
-        "foto": "./images/foto69.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "Campinas/SP",
@@ -3781,7 +3726,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Docker Certified Associate"
         ],
         "idiomas": [
             {
@@ -3797,7 +3742,7 @@
     {
         "id": 70,
         "nome": "Lucas Oliveira",
-        "foto": "./images/foto70.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "Campinas/SP",
@@ -3836,7 +3781,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Certified Financial Modeling & Valuation Analyst (FMVA)"
         ],
         "idiomas": [
             {
@@ -3852,7 +3797,7 @@
     {
         "id": 71,
         "nome": "Ana Ribeiro",
-        "foto": "./images/foto71.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Cientista de Dados",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Curitiba/PR",
@@ -3891,7 +3836,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: Data Scientist Associate"
         ],
         "idiomas": [
             {
@@ -3907,7 +3852,7 @@
     {
         "id": 72,
         "nome": "Beatriz Albuquerque",
-        "foto": "./images/foto72.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Belo Horizonte/MG",
@@ -3946,7 +3891,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Data Analytics Professional Certificate"
         ],
         "idiomas": [
             {
@@ -3962,7 +3907,7 @@
     {
         "id": 73,
         "nome": "Beatriz Martins",
-        "foto": "./images/foto73.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Belo Horizonte/MG",
@@ -4001,7 +3946,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -4017,7 +3962,7 @@
     {
         "id": 74,
         "nome": "Sofia Silva",
-        "foto": "./images/foto74.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Salvador/BA",
@@ -4056,7 +4001,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -4072,7 +4017,7 @@
     {
         "id": 75,
         "nome": "Sofia Silva",
-        "foto": "./images/foto75.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Curitiba/PR",
@@ -4111,7 +4056,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -4127,7 +4072,7 @@
     {
         "id": 76,
         "nome": "Lucas Rocha",
-        "foto": "./images/foto76.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Salvador/BA",
@@ -4166,7 +4111,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Developer – Associate"
         ],
         "idiomas": [
             {
@@ -4182,7 +4127,7 @@
     {
         "id": 77,
         "nome": "Beatriz Ferreira",
-        "foto": "./images/foto77.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "São Paulo/SP",
@@ -4221,7 +4166,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Solutions Architect – Associate"
         ],
         "idiomas": [
             {
@@ -4237,7 +4182,7 @@
     {
         "id": 78,
         "nome": "Clara Rocha",
-        "foto": "./images/foto78.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Belo Horizonte/MG",
@@ -4276,7 +4221,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Google Professional Cloud Architect"
         ],
         "idiomas": [
             {
@@ -4292,7 +4237,7 @@
     {
         "id": 79,
         "nome": "Sofia Oliveira",
-        "foto": "./images/foto79.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Salvador/BA",
@@ -4331,7 +4276,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "IBM Data Engineering Professional Certificate"
         ],
         "idiomas": [
             {
@@ -4347,7 +4292,7 @@
     {
         "id": 80,
         "nome": "Ana Silva",
-        "foto": "./images/foto80.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Campinas/SP",
@@ -4386,7 +4331,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -4402,7 +4347,7 @@
     {
         "id": 81,
         "nome": "Sofia Rocha",
-        "foto": "./images/foto81.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "São Paulo/SP",
@@ -4441,7 +4386,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -4457,7 +4402,7 @@
     {
         "id": 82,
         "nome": "Rafaela Martins",
-        "foto": "./images/foto82.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em saúde.",
         "localizacao": "Belo Horizonte/MG",
@@ -4496,7 +4441,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -4512,7 +4457,7 @@
     {
         "id": 83,
         "nome": "João Santos",
-        "foto": "./images/foto83.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "Designer UX/UI",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -4551,7 +4496,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "UX Design Professional Certificate (Google)"
         ],
         "idiomas": [
             {
@@ -4567,7 +4512,7 @@
     {
         "id": 84,
         "nome": "Mariana Ferreira",
-        "foto": "./images/foto84.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "Desenvolvedor Front-end",
         "resumo": "Profissional atuante em marketing.",
         "localizacao": "Curitiba/PR",
@@ -4606,7 +4551,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Meta Front-End Developer Certificate"
         ],
         "idiomas": [
             {
@@ -4622,7 +4567,7 @@
     {
         "id": 85,
         "nome": "Lucas Ferreira",
-        "foto": "./images/foto85.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
         "cargo": "Cientista de Dados",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Curitiba/PR",
@@ -4661,7 +4606,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: Data Analyst Associate"
         ],
         "idiomas": [
             {
@@ -4677,7 +4622,7 @@
     {
         "id": 86,
         "nome": "Pedro Barbosa",
-        "foto": "./images/foto86.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
         "cargo": "Desenvolvedor Back-end",
         "resumo": "Profissional atuante em ti.",
         "localizacao": "Belo Horizonte/MG",
@@ -4716,7 +4661,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Developer – Associate"
         ],
         "idiomas": [
             {
@@ -4732,7 +4677,7 @@
     {
         "id": 87,
         "nome": "Pedro Santos",
-        "foto": "./images/foto87.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
         "cargo": "Cientista de Dados",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "Curitiba/PR",
@@ -4771,7 +4716,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: Azure Data Scientist Associate"
         ],
         "idiomas": [
             {
@@ -4787,7 +4732,7 @@
     {
         "id": 88,
         "nome": "Clara Rocha",
-        "foto": "./images/foto88.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "Belo Horizonte/MG",
@@ -4826,7 +4771,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "HubSpot Digital Marketing Certification"
         ],
         "idiomas": [
             {
@@ -4842,7 +4787,7 @@
     {
         "id": 89,
         "nome": "Ana Rocha",
-        "foto": "./images/foto89.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher4.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em dados.",
         "localizacao": "Salvador/BA",
@@ -4881,7 +4826,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -4897,7 +4842,7 @@
     {
         "id": 90,
         "nome": "João Albuquerque",
-        "foto": "./images/foto90.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Salvador/BA",
@@ -4936,7 +4881,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -4952,7 +4897,7 @@
     {
         "id": 91,
         "nome": "Mariana Barbosa",
-        "foto": "./images/foto91.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher5.png",
         "cargo": "DevOps Engineer",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Belo Horizonte/MG",
@@ -4991,7 +4936,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified DevOps Engineer – Professional"
         ],
         "idiomas": [
             {
@@ -5007,7 +4952,7 @@
     {
         "id": 92,
         "nome": "Mariana Ribeiro",
-        "foto": "./images/foto92.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher1.png",
         "cargo": "Designer UX/UI",
         "resumo": "Profissional atuante em educação.",
         "localizacao": "Belo Horizonte/MG",
@@ -5046,7 +4991,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "UX Design Professional Certificate (Google)"
         ],
         "idiomas": [
             {
@@ -5062,7 +5007,7 @@
     {
         "id": 93,
         "nome": "Thiago Santos",
-        "foto": "./images/foto93.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "Product Owner",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "Curitiba/PR",
@@ -5101,7 +5046,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Professional Scrum Product Owner I (PSPO I)"
         ],
         "idiomas": [
             {
@@ -5117,7 +5062,7 @@
     {
         "id": 94,
         "nome": "Ana Mendes",
-        "foto": "./images/foto94.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher2.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Belo Horizonte/MG",
@@ -5156,7 +5101,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -5172,7 +5117,7 @@
     {
         "id": 95,
         "nome": "Beatriz Ferreira",
-        "foto": "./images/foto95.jpg",
+        "foto": "/assets/imgs/fotosPerfis/mulher3.png",
         "cargo": "Arquiteto de Software",
         "resumo": "Profissional atuante em marketing.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -5211,7 +5156,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Solutions Architect – Associate"
         ],
         "idiomas": [
             {
@@ -5227,7 +5172,7 @@
     {
         "id": 96,
         "nome": "Lucas Mendes",
-        "foto": "./images/foto96.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem5.png",
         "cargo": "Analista de Marketing",
         "resumo": "Profissional atuante em rh.",
         "localizacao": "Salvador/BA",
@@ -5266,7 +5211,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "HubSpot Digital Marketing Certification"
         ],
         "idiomas": [
             {
@@ -5282,7 +5227,7 @@
     {
         "id": 97,
         "nome": "João Silva",
-        "foto": "./images/foto97.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem1.png",
         "cargo": "Analista de Dados",
         "resumo": "Profissional atuante em finanças.",
         "localizacao": "São Paulo/SP",
@@ -5321,7 +5266,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "Microsoft Certified: Azure Data Fundamentals"
         ],
         "idiomas": [
             {
@@ -5337,7 +5282,7 @@
     {
         "id": 98,
         "nome": "Thiago Albuquerque",
-        "foto": "./images/foto98.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem2.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em educação.",
         "localizacao": "Salvador/BA",
@@ -5376,7 +5321,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {
@@ -5392,7 +5337,7 @@
     {
         "id": 99,
         "nome": "Pedro Ribeiro",
-        "foto": "./images/foto99.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem3.png",
         "cargo": "Desenvolvedor Back-end",
         "resumo": "Profissional atuante em desenvolvimento.",
         "localizacao": "Curitiba/PR",
@@ -5431,7 +5376,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "AWS Certified Developer – Associate"
         ],
         "idiomas": [
             {
@@ -5447,7 +5392,7 @@
     {
         "id": 100,
         "nome": "Pedro Silva",
-        "foto": "./images/foto100.jpg",
+        "foto": "/assets/imgs/fotosPerfis/homem4.png",
         "cargo": "QA Analyst",
         "resumo": "Profissional atuante em engenharia.",
         "localizacao": "Belo Horizonte/MG",
@@ -5486,7 +5431,7 @@
             }
         ],
         "certificacoes": [
-            "Certificação Profissional"
+            "ISTQB Certified Tester Foundation Level"
         ],
         "idiomas": [
             {

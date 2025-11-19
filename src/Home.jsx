@@ -159,58 +159,56 @@ export default function Home() {
   function handleAplicarFiltros() {
 
     setLoading(true);
-  
+
     setTimeout(() => {
-  
+
       let filtrados = perfis;
-  
+
       if (filtroAreas.length > 0) {
         filtrados = filtrados.filter(p => filtroAreas.includes(p.area));
       }
-  
+
       if (filtroTecnologias.length > 0) {
         filtrados = filtrados.filter(p =>
           p.habilidadesTecnicas.some(h => filtroTecnologias.includes(h))
         );
       }
-  
+
       if (filtroCidades.length > 0) {
         filtrados = filtrados.filter(p => filtroCidades.includes(p.localizacao));
       }
-  
-      setPerfisFiltrados(filtrados);
-  
+
+
+      if (filtrados.length === 0) {
+        setPerfisFiltrados([{ notFound: true }]);
+      } else {
+        setPerfisFiltrados(filtrados);
+      }
+
 
       setLoading(false);
-  
+
     }, 1200);
   }
-  
+
 
 
   function LoadingScreen({ active }) {
-    return (
-      <div
-        className={`fixed top-0 left-0 w-full h-full flex flex-col justify-center items-center transition-all duration-500 z-[9999]
-        ${active ? "bg-[#0c1117]" : "bg-[#e6e6e6]"}
-        `}
-      >
-        <p
-          className={`font-[cyrovoid] text-[28px] mb-6 tracking-wider 
-          ${active ? "text-[#cce7dd]" : "text-[#22333b]"}`}
-        >
-          Carregando...
-        </p>
 
-        {/* Spinner */}
-        <div className="animate-spin rounded-full h-14 w-14 border-[3px]"
-          style={{
-            borderColor: active ? "#1affc6" : "#5b6f73",
-            borderTopColor: "transparent",
-          }}
-        ></div>
+    return (
+
+      <div className={`fixed top-0 left-0 w-full h-full flex flex-col justify-center items-center transition-all duration-500 z-[9999] ${active ? "bg-[#0c1117]" : "bg-[#e6e6e6]"}`}>
+
+        <p className={`font-[cyrovoid] text-[28px] mb-6 tracking-wider ${active ? "text-[#cce7dd]" : "text-[#22333b]"}`}> Carregando...</p>
+
+        <div className="animate-spin rounded-full h-14 w-14 border-[3px]" style={{ borderColor: active ? "#1affc6" : "#5b6f73", borderTopColor: "transparent", }}></div>
+
       </div>
+
+
     );
+
+
   }
 
 
@@ -363,24 +361,26 @@ export default function Home() {
 
             {perfisFiltrados.map((p) => (
 
-              <div id={colorCard} idPerfil={p.id}>
+              p.notFound ? (
+                <p id='notFound' className='text-center text-[18px] font-[neubau] mt-10'>
+                  Nenhum perfil encontrado com os filtros selecionados!
+                </p>
+              ) : (
 
-                <img src={p.foto} alt="" />
+                <div id={colorCard} idPerfil={p.id}>
 
-                <h1>{p.nome}</h1>
+                  <img src={p.foto} alt="" className='w-35' />
 
-                <h3>{p.areaInteresses}</h3>
+                  <h1>{p.nome}</h1>
 
-                <p>{p.localizacao}</p>
+                  <h3>{p.areaInteresses}</h3>
 
-{/* 
-                {p.habilidadesTecnicas.map((h) => (
-                  <p>{h}</p>
-                ))} */}
+                  <p>{p.localizacao}</p>
 
-              </div>
 
-            ))}
+                </div>
+
+              )))}
 
           </div>
 
