@@ -217,7 +217,7 @@ npm run dev
 | Daniel Duarte dos Santos | RM 562508  |
 | ------------------------ | ---------- |
 | Nuno Coutinho Henrique   | RM 562438  |
-
+| ------------------------ | ---------- |
 | Yasmin Amorim Affonso    | RM 5636345 |
 
 ---
