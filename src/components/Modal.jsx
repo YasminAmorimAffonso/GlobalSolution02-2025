@@ -48,9 +48,9 @@ export default function Modal({ perfil, onClose, colorCard }) {
 
             <div id={`${colorCard}-modal`} className="p-[30px] z-500 w-4/5 h-3/4 mt-[150px] rounded-2xl overflow-y-scroll text-center">
 
-                <div className="flex justify-end w-full ml-5 -mt-3 z-1000">
+                <div className="relative">
 
-                    <button onClick={onClose} className=" hover:scale-120 cursor-pointer transition-all duration-300"><img id="XImg" src={pathImg} alt="Fechar" className="w-5" /></button>
+                    <button onClick={onClose} className="cursor-pointer transition-all duration-300"><img id="XImg" src={pathImg} alt="Fechar" className="w-5" /></button>
 
                 </div>
 
@@ -59,7 +59,7 @@ export default function Modal({ perfil, onClose, colorCard }) {
 
                     <div id="mainInfo" className="flex flex-col justify-around items-center mb-10">
 
-                        <img id="fotoPerfil" src={perfil.foto} alt="" className="mt-5 w-30 rounded-full border-2 mb-5" />
+                        <img id="fotoPerfil" src={perfil.foto} alt="" className="mt-5 w-30 rounded-full border-3 mb-5" />
 
                         <div className="flex flex-col justify-around items-center">
 
