@@ -3,7 +3,7 @@ input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
     background-color: transparent;
-    border: 2px solid #0E9A58;
+    border: 2px solid #E6F1FF;
     width: 18px;
     height: 18px;
     border-radius: 4px;
@@ -16,7 +16,7 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked {
 
-    background-color: #0E9A58;
+    background-color: #E6F1FF;
 
 }
 
@@ -24,7 +24,7 @@ input[type="checkbox"]:checked {
 input[type="checkbox"]:checked::after {
 
 
-    color: white;
+    color: #1C2D43;
     content: "✔";
     font-size: 17px;
     position: absolute;
@@ -186,6 +186,31 @@ input[type="checkbox"]:checked::after {
     }
 
 
+    #card {
+
+        background: linear-gradient(to bottom, #B3BDC399 0%, #B3BDC399 25%, #F7F9FA80 50%, #B3BDC399 75%, #B3BDC399 100%);
+
+        border-color: #1C2D43;
+
+        img {
+
+            border-color: #1C2D43;
+
+        }
+
+        h1,
+        h3,
+        p {
+
+            color: #1C2D43;
+
+        }
+
+
+
+    }
+
+
 }
 
 
@@ -294,6 +319,31 @@ input[type="checkbox"]:checked::after {
             transition: 0.3s;
 
         }
+
+    }
+
+
+    #cardEscuro {
+
+        background-color: #0C221A66;
+
+        border-color: #0C5036;
+
+        img {
+
+            border-color: #0C5036;
+
+        }
+
+        h1,
+        h3,
+        p {
+
+            color: #E6F1FF;
+
+        }
+
+
 
     }
 
@@ -470,13 +520,32 @@ input[type="checkbox"]:checked::after {
 
         }
 
+        #secPerfis {
+
+            #card {
+
+                width: 40%;
+
+                height: 45%;
+
+                h1 {
+
+                    font-size: 20px;
+
+                    width: 100%;
+
+                    text-align: center;
+
+                }
+
+            }
+
+        }
+
 
         #secPerfisEscura {
 
             margin-top: -550px;
-
-
-
 
             h1 {
 
@@ -488,12 +557,12 @@ input[type="checkbox"]:checked::after {
 
                 font-size: 18px;
 
-            }   
-        
+            }
+
             h4 {
-        
+
                 font-size: 25px;
-        
+
             }
 
             #linhaUpSecFiltros {
@@ -503,36 +572,36 @@ input[type="checkbox"]:checked::after {
                 margin-left: 100px;
 
             }
-    
-        
-        
+
+
+
             #contentFiltrosEscuro-home {
 
                 width: 100%;
-        
+
                 background-size: cover;
-        
+
                 display: flex;
-        
+
                 justify-content: center;
-        
+
                 align-items: center;
 
 
-        
-        
+
+
                 h6 {
-        
+
                     font-weight: bold;
-        
+
                     font-size: 25px;
-        
+
                 }
-        
+
                 p {
-        
+
                     font-size: 20px;
-        
+
                 }
 
                 div {
@@ -541,8 +610,27 @@ input[type="checkbox"]:checked::after {
 
                 }
 
-        
-            }        
+
+            }
+
+            #cardEscuro {
+
+                width: 40%;
+
+                height: 45%;
+
+                h1 {
+
+                    font-size: 20px;
+
+                    width: 100%;
+
+                    text-align: center;
+
+                }
+
+
+            }
 
         }
 
@@ -732,7 +820,7 @@ input[type="checkbox"]:checked::after {
                 font-size: 35px;
 
                 color: #1C2D43;
-        
+
             }
 
             #secFiltros {
@@ -774,6 +862,36 @@ input[type="checkbox"]:checked::after {
 
             }
 
+
+            #card {
+
+                width: 25%;
+
+                height: 45%;
+
+                margin: 0px 50px 50px 50px;
+
+                img {
+
+                    width: 125px;
+
+                }
+
+                h1 {
+
+                    font-size: 25px;
+
+                }
+
+                h3, p {
+
+                    font-size: 22px;
+
+                }
+
+
+            }
+
         }
 
         #secPerfisEscura {
@@ -805,7 +923,7 @@ input[type="checkbox"]:checked::after {
             #notFound {
 
                 font-size: 35px;
-        
+
             }
 
 
@@ -816,9 +934,9 @@ input[type="checkbox"]:checked::after {
                 margin-left: 75px;
 
             }
-    
-        
-        
+
+
+
             #contentFiltrosEscuro-home {
 
                 div {
@@ -848,8 +966,39 @@ input[type="checkbox"]:checked::after {
                     margin-right: 50px;
 
                 }
-        
-            }        
+
+            }
+
+
+            #cardEscuro {
+
+                width: 25%;
+
+                height: 45%;
+
+                margin: 0px 50px 50px 50px;
+
+                img {
+
+                    width: 125px;
+
+                }
+
+                h1 {
+
+                    font-size: 25px;
+
+                }
+
+                h3, p {
+
+                    font-size: 22px;
+
+                }
+
+
+
+            }
 
 
         }

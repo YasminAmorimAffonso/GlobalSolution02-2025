@@ -34,6 +34,8 @@ export default function Home() {
   const [filtroCidades, setFiltroCidades] = useState([]);
   const [perfisFiltrados, setPerfisFiltrados] = useState(perfis);
   const [loading, setLoading] = useState(true);
+  const [modalOpen, setModalOpen] = useState(false);
+  const [perfilSelecionado, setPerfilSelecionado] = useState(null);
 
 
 
@@ -43,13 +45,6 @@ export default function Home() {
 
 
   useEffect(() => {
-
-    for (let n = 0; n < 5; n++) {
-
-      console.log(perfis[n]);
-
-    }
-
 
     function updateActive() {
 
@@ -211,6 +206,16 @@ export default function Home() {
 
   }
 
+  function abrirModal(perfil) {
+
+    setPerfilSelecionado(perfil);
+
+    setModalOpen(true);
+
+
+  }
+
+
 
   return (
 
@@ -260,7 +265,7 @@ export default function Home() {
 
         <img id='forma2' src="/assets/imgs/Forma2.svg" alt="Forma 2" className='w-[1000px] -translate-x-20 -translate-y-[250px] z-0' />
 
-        <div id={secPerfis} className='h-[1500px] -mb-[40px] flex flex-col items-center pt-[75px] -mt-[350px]'>
+        <div id={secPerfis} className={`min-h-[1500px] overflow-hidden transition-all duration-500 -mb-[40px] flex flex-col items-center pt-[75px] -mt-[350px]`}>
 
 
           <h1 className='font-[cyrovoid] z-1'>Explore Talentos e Conexões</h1>
@@ -283,7 +288,7 @@ export default function Home() {
 
             <img id='linhaUpSecFiltros' src={linhaUpSecFiltros} alt="" />
 
-            <div id={active === true ? "contentFiltrosEscuro-home" : "contentFiltros-home"} className={`flex flex-col justify-center overflow-hidden transition-all duration-500 rounded-xl ${filtrosAberto ? "max-h-none opacity-100 p-6" : "max-h-0 opacity-0 p-0 bg-transparent"}`}>
+            <div id={active === true ? "contentFiltrosEscuro-home" : "contentFiltros-home"} className={`flex flex-col justify-center overflow-hidden transition-all duration-500 rounded-xl ${filtrosAberto ? "max-h-[900px] opacity-100 p-6" : "max-h-0 opacity-0 p-0 bg-transparent"}`}>
 
               <div className='w-screen flex flex-row flex-wrap justify-center items-center mt-10'>
 
@@ -325,7 +330,7 @@ export default function Home() {
 
                 </div>
 
-                <div className='flex flex-wrap flex-col justify-around items-start h-43 w-[323px] mb-10 -mr-3.5'>
+                <div className='flex flex-wrap flex-col justify-around items-start h-70 w-[323px] mb-10 -mr-3.5'>
 
                   <h6 className='mb-3'>Cidade</h6>
 
@@ -354,10 +359,7 @@ export default function Home() {
 
           </div>
 
-
-          {/* <Modal colorCard={colorCard}/> */}
-
-          <div className='overflow-y-scroll m-20 h-[500px] z-1'>
+          <div className='overflow-y-scroll m-20 h-[925px] w-4/5 z-1 flex flex-wrap justify-around items-center pt-1'>
 
             {perfisFiltrados.map((p) => (
 
@@ -367,15 +369,25 @@ export default function Home() {
                 </p>
               ) : (
 
-                <div id={colorCard} idPerfil={p.id}>
+                <div id={colorCard} onClick={() => abrirModal(p)} idPerfil={p.id} className='flex flex-col justify-around items-center h-2/6 mb-10 p-10 border-4 rounded-2xl hover:scale-102 cursor-pointer transition-all duration-200'>
 
-                  <img src={p.foto} alt="" className='w-35' />
+                  <img src={p.foto} alt="" className='w-30 rounded-full border-2 mb-5' />
 
-                  <h1>{p.nome}</h1>
+                  <h1 className='font-[cyrovoid]'>{p.nome}</h1>
 
-                  <h3>{p.areaInteresses}</h3>
 
-                  <p>{p.localizacao}</p>
+                  <div className='flex flex-wrap justify-around items-center w-4/5'>
+
+                    {p.areaInteresses.map((i) => (
+
+                      <h3 className='font-[neubau] text-[18px]'>{i}</h3>
+
+                    ))}
+
+                  </div>
+
+
+                  <p className='font-[neubau] text-[18px]'>{p.localizacao}</p>
 
 
                 </div>
@@ -387,6 +399,9 @@ export default function Home() {
         </div>
 
       </div>
+
+      {modalOpen && ( <Modal perfil={perfilSelecionado} onClose={() => setModalOpen(false)} colorCard={colorCard}/>  )}
+
 
       <Footer secHero={idSecHero} secMiddle={secMiddle} secPerfis={secPerfis} />
 
